@@ -1,6 +1,0 @@
-[2019-03-26 09:33:09] development.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Maximum execution time of 30 seconds exceeded' in C:\xampp\htdocs\webvpc\vendor\laravel\framework\src\Illuminate\Foundation\Validation\ValidatesRequests.php:13
-Stack trace:
-#0 {main}  
-[2019-03-26 09:33:09] development.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Maximum execution time of 30 seconds exceeded' in C:\xampp\htdocs\webvpc\vendor\laravel\framework\src\Illuminate\Foundation\Validation\ValidatesRequests.php:13
-Stack trace:
-#0 {main}  

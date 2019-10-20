@@ -1,7 +1,0 @@
-guest|::1|Windows|7|Chrome|73.0.3683.86|2019-04-01 09:20:01|200|GET|http://localhost:8080/webvpc/public|[]
-guest|::1|Windows|7|Chrome|73.0.3683.86|2019-04-01 09:20:01|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
-guest|::1|Windows|7|Chrome|73.0.3683.86|2019-04-01 09:20:02|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
-guest|::1|Windows|7|Chrome|73.0.3683.86|2019-04-01 09:20:08|302|POST|http://localhost:8080/webvpc/public/login|{"_token":"tA9F1dyUvNp6FbxGme9ICLPIiFrJ7oyxK9TjGZFE","registro":"bp2567","passw":"bp2567"}
-guest|::1|Windows|7|Chrome|73.0.3683.86|2019-04-01 09:20:09|200|GET|http://localhost:8080/webvpc/public|[]
-BP2567|::1|Windows|7|Chrome|73.0.3683.86|2019-04-01 09:21:07|302|POST|http://localhost:8080/webvpc/public/login|{"_token":"tA9F1dyUvNp6FbxGme9ICLPIiFrJ7oyxK9TjGZFE","registro":"BP2567","passw":"BP2567"}
-BP2567|::1|Windows|7|Chrome|73.0.3683.86|2019-04-01 09:21:08|200|GET|http://localhost:8080/webvpc/public/addusuario/addusuario|[]
