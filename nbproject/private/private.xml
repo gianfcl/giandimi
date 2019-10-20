@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+<<<<<<< HEAD
+            <file>file:/C:/xampp/htdocs/webvpc/app/Model/ComboEjecutivo.php</file>
+            <file>file:/C:/xampp/htdocs/webvpc/resources/views/ssrs/variaciones.blade.php</file>
+            <file>file:/C:/xampp/htdocs/webvpc/app/Http/Controllers/PassController.php</file>
+            <file>file:/C:/xampp/htdocs/webvpc/app/Model/Usuario.php</file>
+            <file>file:/C:/xampp/htdocs/webvpc/app/Http/Controllers/SSRSController.php</file>
+            <file>file:/C:/xampp/htdocs/webvpc/resources/views/ssrs/saldos.blade.php</file>
+            <file>file:/C:/xampp/htdocs/webvpc/app/Model/Ecosistema.php</file>
+            <file>file:/C:/xampp/htdocs/webvpc/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/webvpc/app/Entity/Usuario.php</file>
+            <file>file:/C:/xampp/htdocs/webvpc/resources/views/Layouts/layout.Blade.php</file>
+=======
+            <file>file:/C:/xampp/htdocs/webvpc/resources/views/be/infinity/me/conoceme.blade.php</file>
+            <file>file:/C:/xampp/htdocs/webvpc/app/Http/Controllers/BE/Infinity/ME/ConocemeController.php</file>
+>>>>>>> 8d45ca29ef685272477376403b434e51d820dd7c
+        </group>
+    </open-files>
+</project-private>

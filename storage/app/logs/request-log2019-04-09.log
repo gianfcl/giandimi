@@ -1,0 +1,4 @@
+guest|::1|Windows|7|Chrome|73.0.3683.86|2019-04-09 15:44:44|200|GET|http://localhost:8080/webvpc/public/extra-login|[]
+B14971|::1|Windows|7|Chrome|73.0.3683.86|2019-04-09 15:44:53|302|POST|http://localhost:8080/webvpc/public/extra-attempt|{"_token":"YfEBq6jgTVwclwxxEgZYH9mxi3GfdW1ScqtEbTzy","registro":"B14971","passw":"VPC201801*"}
+B14971|::1|Windows|7|Chrome|73.0.3683.86|2019-04-09 15:45:01|200|GET|http://localhost:8080/webvpc/public/be/miprospecto/lista|[]
+B14971|::1|Windows|7|Chrome|73.0.3683.86|2019-04-09 15:45:09|200|GET|http://localhost:8080/webvpc/public/be/misacciones/lista|[]

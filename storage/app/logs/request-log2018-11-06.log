@@ -1,0 +1,41 @@
+
+guest|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:15:59|302|GET|http://localhost:8080/webvpc/public/logout|[]
+guest|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:16:00|200|GET|http://localhost:8080/webvpc/public|[]
+B28230|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:16:06|302|POST|http://localhost:8080/webvpc/public/login|{"_token":"Yup3Kk2Ekeoksa1nh6LqDbAk5Nuv7ML9jLooQspS","registro":"B28230","passw":"B28230"}
+B28230|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:16:11|200|GET|http://localhost:8080/webvpc/public/bpe/gt/resumen-ejecutivos|[]
+B28230|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:36:01|200|GET|http://localhost:8080/webvpc/public/bpe/gt/resumen-ejecutivos|[]
+B28230|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:36:14|200|GET|http://localhost:8080/webvpc/public//bpe/campanha/utils/get-centros-by-zonal|{"zonal":"PROV CENTRO"}
+B28230|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:36:14|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"c7af28778aa0a7f510a01eb8061361f3"}
+B28230|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:36:16|200|GET|http://localhost:8080/webvpc/public//bpe/campanha/utils/get-tiendas-by-centro|{"centro":"CBPE018"}
+B28230|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:36:17|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"2dd4e4180d92ae32b5e35a6bd506fc02"}
+B28230|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:36:28|200|GET|http://localhost:8080/webvpc/public/bpe/gt/resumen-ejecutivos|{"zonal":"PROV CENTRO","centro":"CBPE018","tienda":"512"}
+B28230|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:36:29|200|GET|http://localhost:8080/webvpc/public//bpe/campanha/utils/get-centros-by-zonal|{"zonal":"PROV CENTRO"}
+B28230|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:36:29|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f5cbfea0679e68f1a12b6f64310e3d01"}
+B28230|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:36:29|200|GET|http://localhost:8080/webvpc/public//bpe/campanha/utils/get-tiendas-by-centro|{"centro":"CBPE018"}
+B28230|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:36:30|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"d6d07420ae8bf424b540f6be1572c46a"}
+guest|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:57:31|302|GET|http://localhost:8080/webvpc/public/logout|[]
+guest|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:57:31|200|GET|http://localhost:8080/webvpc/public|[]
+B20539|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:57:36|302|POST|http://localhost:8080/webvpc/public/login|{"_token":"Yup3Kk2Ekeoksa1nh6LqDbAk5Nuv7ML9jLooQspS","registro":"B20539","passw":"B20539"}
+B20539|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:57:38|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B20539|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:58:05|200|GET|http://localhost:8080/webvpc/public/bpe/cli/cartera|[]
+B20539|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:58:15|200|GET|http://localhost:8080/webvpc/public/bpe/campanha/consulta-nuevos|[]
+B20539|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:58:20|200|GET|http://localhost:8080/webvpc/public/bpe/campanha/consulta-nuevos|{"nro_doc":"20522739279"}
+guest|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:59:46|302|GET|http://localhost:8080/webvpc/public/logout|[]
+guest|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:59:47|200|GET|http://localhost:8080/webvpc/public|[]
+B14821|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:59:51|302|POST|http://localhost:8080/webvpc/public/login|{"_token":"Yup3Kk2Ekeoksa1nh6LqDbAk5Nuv7ML9jLooQspS","registro":"B14821","passw":"B14821"}
+B14821|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 10:59:54|200|GET|http://localhost:8080/webvpc/public/bpe/gt/resumen-ejecutivos|[]
+B14821|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 11:00:05|200|GET|http://localhost:8080/webvpc/public/bpe/gt/resumen-ejecutivos|[]
+B14821|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 11:00:21|200|GET|http://localhost:8080/webvpc/public/bpe/tools/reasignacion|[]
+B14821|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 11:00:27|200|GET|http://localhost:8080/webvpc/public/bpe/soporte/asignacion|[]
+B14821|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 11:00:39|200|GET|http://localhost:8080/webvpc/public//bpe/soporte/consultar-ejecutivo|{"registro_en":"B20539"}
+B14821|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 11:00:39|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"9571da8887d81994bd3e38b1c8b92682"}
+guest|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 14:50:57|302|GET|http://localhost:8080/webvpc/public/logout|[]
+guest|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 14:50:58|200|GET|http://localhost:8080/webvpc/public|[]
+B34613|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 14:51:08|302|POST|http://localhost:8080/webvpc/public/login|{"_token":"voa4mNS69mcnYnuehMfR4Z71wwJrMoyk2jZlvcMA","registro":"B34613","passw":"B34613"}
+B34613|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 14:51:10|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B34613|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 14:51:19|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|{"documento":"20482605517","campanha":null,"marca":null,"lead":null,"distrito":null}
+guest|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 14:56:54|302|GET|http://localhost:8080/webvpc/public/logout|[]
+guest|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 14:56:54|200|GET|http://localhost:8080/webvpc/public|[]
+B34431|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 14:56:59|302|POST|http://localhost:8080/webvpc/public/login|{"_token":"voa4mNS69mcnYnuehMfR4Z71wwJrMoyk2jZlvcMA","registro":"B34431","passw":"B34431"}
+B34431|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 14:57:01|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B34431|::1|Windows|7|Chrome|70.0.3538.77|2018-11-06 14:57:12|200|GET|http://localhost:8080/webvpc/public/bpe/cli/cartera|[]

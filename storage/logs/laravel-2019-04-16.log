@@ -1,0 +1,9 @@
+[2019-04-16 14:28:15] development.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected ')'' in C:\xampp\htdocs\webvpc\app\Http\Controllers\BE\AccionesComercialesController.php:89
+Stack trace:
+#0 {main}  
+[2019-04-16 14:28:53] development.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM)' in C:\xampp\htdocs\webvpc\app\Http\Controllers\BE\AccionesComercialesController.php:89
+Stack trace:
+#0 {main}  
+[2019-04-16 14:28:57] development.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM)' in C:\xampp\htdocs\webvpc\app\Http\Controllers\BE\AccionesComercialesController.php:89
+Stack trace:
+#0 {main}  

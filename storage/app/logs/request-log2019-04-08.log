@@ -1,0 +1,13 @@
+guest|::1|Windows|7|Chrome|73.0.3683.86|2019-04-08 15:23:54|200|GET|http://localhost:8080/webvpc/public/extra-login|[]
+B27462|::1|Windows|7|Chrome|73.0.3683.86|2019-04-08 15:25:39|302|POST|http://localhost:8080/webvpc/public/extra-attempt|{"_token":"xctMpwxF9SX0YPRnNRFgtRhQwFOoPIUw5Or9Bf3F","registro":"B27462","passw":"VPC201801*"}
+B27462|::1|Windows|7|Chrome|73.0.3683.86|2019-04-08 15:25:54|200|GET|http://localhost:8080/webvpc/public/be/resumen|[]
+B27462|::1|Windows|7|Chrome|73.0.3683.86|2019-04-08 16:35:12|302|GET|http://localhost:8080/webvpc/public|[]
+B27462|::1|Windows|7|Chrome|73.0.3683.86|2019-04-08 16:35:14|200|GET|http://localhost:8080/webvpc/public/be/resumen|[]
+guest|::1|Windows|7|Chrome|73.0.3683.86|2019-04-08 16:35:17|302|GET|http://localhost:8080/webvpc/public/logout|[]
+guest|::1|Windows|7|Chrome|73.0.3683.86|2019-04-08 16:35:17|200|GET|http://localhost:8080/webvpc/public|[]
+guest|::1|Windows|7|Chrome|73.0.3683.86|2019-04-08 16:35:26|200|GET|http://localhost:8080/webvpc/public/extra-login|[]
+B36716|::1|Windows|7|Chrome|73.0.3683.86|2019-04-08 16:35:31|302|POST|http://localhost:8080/webvpc/public/extra-attempt|{"_token":"xctMpwxF9SX0YPRnNRFgtRhQwFOoPIUw5Or9Bf3F","registro":"B36716","passw":"VPC201801*"}
+B36716|::1|Windows|7|Chrome|73.0.3683.86|2019-04-08 16:35:37|200|GET|http://localhost:8080/webvpc/public/be/miprospecto/lista|[]
+B36716|::1|Windows|7|Chrome|73.0.3683.86|2019-04-08 16:35:38|200|GET|http://localhost:8080/webvpc/public/be/utils/get-ejecutivos-by-jefatura|{"jefatura":null}
+B36716|::1|Windows|7|Chrome|73.0.3683.86|2019-04-08 16:35:38|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"ba5c074d9c76201a4e8a7175ef97a454"}
+B36716|::1|Windows|7|Chrome|73.0.3683.86|2019-04-08 16:35:46|200|GET|http://localhost:8080/webvpc/public/be/actividades|{"documento":"20556138428"}

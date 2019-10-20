@@ -1,0 +1,1284 @@
+guest|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 10:01:28|200|GET|http://localhost:8080/webvpc/public|[]
+guest|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 11:01:07|200|GET|http://localhost:8080/webvpc/public|[]
+guest|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:30:20|200|GET|http://localhost:8080/webvpc/public|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:31:53|302|POST|http://localhost:8080/webvpc/public/login|{"_token":"JeyMxtKbcMza1HKiCnwTumCodVOSjyo4o8DhhFNi","registro":"B35703","passw":"B35703"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:32:22|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:33:08|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:34:05|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:34:06|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:34:06|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:39:59|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:40:11|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:40:12|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:40:12|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:44:23|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:44:24|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:44:24|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:45:38|500|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:45:39|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:45:39|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:45:53|500|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:45:54|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:45:54|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:47:10|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:47:11|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:47:11|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:53:01|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:53:01|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 13:53:01|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:05:58|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:05:59|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:05:59|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:06:16|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:06:16|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:06:16|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:10:16|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:10:25|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"B30900"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:10:25|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"843ee5ca5c95ec223f44fd0890854996"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:10:25|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:10:34|200|POST|http://localhost:8080/webvpc/public/addusuario/get-usuario|{"registro":"B31243"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:10:34|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"d111cbdf145c991a71b133536d7d70d5"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:10:45|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:10:49|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:10:55|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:13:16|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:14:12|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:16:21|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:16:22|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:16:22|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:17:42|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:21:44|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:21:44|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:21:44|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:25:44|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:25:44|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:25:44|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:32:38|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:32:39|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:32:39|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:32:43|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:32:44|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:32:44|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:35:41|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:35:42|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:36:40|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:38:04|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:38:05|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:38:05|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:38:07|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:38:59|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:39:18|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:39:19|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:39:19|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:40:25|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:48:54|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:57:53|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:57:53|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:57:53|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:59:33|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:59:33|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 14:59:33|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:03:00|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:03:01|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:03:01|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:08:16|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:09:00|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:09:01|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:09:01|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:09:04|500|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"[object HTMLSelectElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:09:05|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"0082478d92f588d9317b295e17cdfc69"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:09:59|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:09:59|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:09:59|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:10:02|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"[object HTMLSelectElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:10:02|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"8d2fee14e4165f7175ee7a7b32620008"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:10:10|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"[object HTMLSelectElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:10:10|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"3917b8a3963654ba420ee84cc80547d4"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:15:11|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:15:11|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:15:11|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:16:53|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:16:53|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:16:53|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:16:56|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:16:56|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"291cd9a011493bccfdc7deaf00cb827b"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:17:18|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:17:19|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:17:19|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:17:21|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:17:22|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"930ca7f26d36696cce08cc3f577b2ccf"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:18:22|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:18:22|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:18:22|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:18:38|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:18:39|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"c660e63d27ef5b44cf3e48ad270a3471"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:18:42|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:18:42|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"8b2a2344ab823800c414287e14c08787"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:18:44|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BC"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:18:45|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"222213fb333502d3e3888996c7c6d1d2"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:19:58|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:19:59|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:19:59|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:20:02|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BC"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:20:02|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f55949afc266e25104b42e6927bb37a1"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:20:07|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:20:08|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:20:08|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:20:25|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:20:25|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"3a0f61a8bdcbd79bcea8ad345964a8f1"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:20:31|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:20:31|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"98256e127ef5ce48762eb2dd5ec5a4a1"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:23:18|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:23:18|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:23:18|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:23:38|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:23:38|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:23:38|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:24:00|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:24:00|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:24:00|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:25:43|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:25:43|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:25:43|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:25:51|500|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:25:51|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"6c2983970aa98a2e2e4892f386a0490d"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:25:55|500|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BC"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:25:55|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"8edf33f47b316d74f18685a46f433cbf"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:26:09|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:26:10|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:26:10|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:27:19|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:27:19|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:27:19|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:27:35|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:27:35|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:27:35|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:27:59|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:28:00|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:28:00|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:29:42|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:29:43|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:29:43|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:30:16|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:30:16|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:30:16|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:30:56|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BC"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:30:57|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"467ffd16ae6e3cd24006f6e641552f8a"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:30:59|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:31:00|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"170dde33298e8e27f851b357d7a01870"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:32:50|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:32:50|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:32:50|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:32:53|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:32:53|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"c7fc8d2e565f7d2d68cb351ac6c86f09"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:33:28|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:33:29|404|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:33:29|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:33:42|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:33:43|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:33:43|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:33:47|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:33:47|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"ebd11daa1eec7451e02464c244c38d94"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:33:58|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:33:59|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:33:59|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:34:01|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:34:02|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"ce3a03e9f53e415d412996f67bba083f"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:34:04|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:34:05|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"d9d0f2802ed6c37384bace0fa30be95a"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:34:09|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BC"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:34:09|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"ec108ca60c38fe80920a51556abe4611"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:34:45|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:34:46|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:34:46|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:34:47|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:34:48|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"41996c78e061d03e586434209ac5310e"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:34:51|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:34:52|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"8b73c99556eb529011cb32219de8110b"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:34:54|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BC"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:34:54|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f3248e5c08e2694c5b4431afc0a73740"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:34:56|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:34:57|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"a8de33ba385d8860430362dca4a685e3"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:37:13|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:37:13|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:37:13|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:37:16|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:37:16|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"df936387b15d714c18c9dacbd4794f4a"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:37:54|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:37:55|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:37:55|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:37:58|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BC"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:37:58|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"3a2e2e53e797342ff17be1eaa1ebc716"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:38:09|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:38:10|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:38:10|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:38:13|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:38:13|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"3d0950bc1ae681ef95e748a6da91e09e"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:38:46|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:38:47|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:38:47|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:38:49|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:38:49|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"196c582c204bbc2219882bd88f9a0a29"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:38:52|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:38:52|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"56242e1d0f6bf95fda22050a7fd210a6"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:38:55|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BC"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:38:55|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"90f13a567623b12e05e5c36566fd58c0"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:38:59|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:39:00|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f3f202431f10b20916eab0351680e7f1"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:39:08|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:39:09|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:39:09|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:39:12|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:39:13|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"59f9e0ba4102f72ebed628008e90724f"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:39:15|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:39:15|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"09c16adb9a01525bac84adfa416852c8"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:39:18|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BC"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:39:19|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"52ba0f0c47435f4651dc5e4cc1b73b10"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:39:44|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:39:44|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:39:44|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:39:47|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:39:48|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"6d4b22432ee25ef067de88ef17c5ce1d"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:40:03|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:40:04|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:40:04|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:40:13|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:40:13|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:40:13|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:40:17|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:40:18|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"4e54d652c74be15452a662e46da0358d"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:40:45|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:40:46|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:40:49|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:40:49|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"c2512c3e71e29809f7fa7d1f83639e19"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:40:50|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:40:51|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"be0bea3e9b20a765d3b859ac4b2e043c"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:40:52|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BC"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:40:52|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"2bd8f95ad2f5bb25e3f107ab9c1c0e86"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:41:28|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:41:28|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:41:29|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:41:32|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:41:33|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"24aaf75683fcbf73fc804edf769ef729"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:41:35|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BC"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:41:35|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"760adbf261195ff48867f98f80a39e18"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:41:37|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:41:37|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"ebe4ee3c33900939de0fe6eacc0fdb83"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:41:39|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BC"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:41:39|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"a1334c951ea6fd8df8a5fa57e3b3b0f5"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:42:07|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:42:08|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:42:08|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:45:01|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:45:06|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:45:06|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"e755c31d012144c78118b6fc5e3055a6"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:45:09|200|POST|http://localhost:8080/webvpc/public/addusuario/comboCentros|{"id_zonal":"BELZONAL1"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:45:09|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"73b1650d46ec8a57eefaa2cfffb9fd75"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:45:32|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:45:32|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:45:33|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:45:35|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:45:35|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"618f3270cfee7e7c6a52617930fd6a4e"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:45:38|200|POST|http://localhost:8080/webvpc/public/addusuario/comboCentros|{"id_zonal":"BELZONAL1"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:45:38|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"a164a3258ac53e1604da75646971f952"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:45:40|200|POST|http://localhost:8080/webvpc/public/addusuario/comboCentros|{"id_zonal":"BELZONAL2"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:45:41|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"45d0030c576daad700a484105687f14a"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:45:43|200|POST|http://localhost:8080/webvpc/public/addusuario/comboCentros|{"id_zonal":"BELZONAL3"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:45:43|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"c06361d8c66c9f4c2dd4412219afede0"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:45:46|200|POST|http://localhost:8080/webvpc/public/addusuario/comboCentros|{"id_zonal":"BEPZONAL1"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:45:46|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"44757b9e6ad9c65879e60eec0b0dd3da"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:45:49|200|POST|http://localhost:8080/webvpc/public/addusuario/comboCentros|{"id_zonal":"BEPZONAL2"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:45:49|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"396d6d3eb679b13dd921f5fe4b800203"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:45:51|200|POST|http://localhost:8080/webvpc/public/addusuario/comboCentros|{"id_zonal":"BEPZONAL3"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:45:51|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"1cce696abe810e13f4f62dc110376ce2"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:46:06|200|POST|http://localhost:8080/webvpc/public/addusuario/comboCentros|{"id_zonal":"BELZONAL2"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:46:07|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"81f57432c56dc0931f163e5e9ef9bacc"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:47:41|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:47:41|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:47:41|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:47:45|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:47:45|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"494b2bab67be09313bd18053037dce29"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:47:49|200|POST|http://localhost:8080/webvpc/public/addusuario/comboCentros|{"id_zonal":"BELZONAL2"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:47:49|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"2a0595fb6a682591b80f4c7d70b2250b"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:47:52|200|POST|http://localhost:8080/webvpc/public/addusuario/comboCentros|{"id_zonal":"BELZONAL1"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:47:53|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"0f40c3b64e8fc64dddef2a2460262327"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:47:54|200|POST|http://localhost:8080/webvpc/public/addusuario/comboCentros|{"id_zonal":"BELZONAL3"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:47:54|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"91d42fd88060dec573d22a7f3a66c715"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:47:56|200|POST|http://localhost:8080/webvpc/public/addusuario/comboCentros|{"id_zonal":"BEPZONAL2"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:47:56|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"946ce8c54be0f699a97feece3df62649"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:47:58|200|POST|http://localhost:8080/webvpc/public/addusuario/comboCentros|{"id_zonal":"BEPZONAL3"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:47:59|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"e5b65bed22e817f6a30ba261319fdb3e"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:48:17|200|POST|http://localhost:8080/webvpc/public/addusuario/comboCentros|{"id_zonal":"BELZONAL2"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:48:17|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"d5e20ed7d02c655428381a6c6e3043f8"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:48:22|200|POST|http://localhost:8080/webvpc/public/addusuario/comboCentros|{"id_zonal":"BELZONAL1"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:48:22|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"27b965bad23c174de9bb94d6e80673dc"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:48:24|200|POST|http://localhost:8080/webvpc/public/addusuario/comboCentros|{"id_zonal":"BELZONAL3"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:48:24|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"45e3e478115ab94eb64bfb7337064d4f"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:48:26|200|POST|http://localhost:8080/webvpc/public/addusuario/comboCentros|{"id_zonal":"BEPZONAL1"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:48:26|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"d50047d4b5917fca144fa36a3232b7c6"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:48:28|200|POST|http://localhost:8080/webvpc/public/addusuario/comboCentros|{"id_zonal":"BEPZONAL2"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:48:29|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"fae5afc53efec920940eb0564d1efc37"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:48:30|200|POST|http://localhost:8080/webvpc/public/addusuario/comboCentros|{"id_zonal":"BEPZONAL3"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:48:30|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"3ba2c3e2125518be434108fc398d2c91"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:48:32|200|POST|http://localhost:8080/webvpc/public/addusuario/comboCentros|{"id_zonal":"BELZONAL2"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:48:33|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"daaa88ce9319db6286711b0ed265d586"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:48:48|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:51:52|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:51:53|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"4510ccd03c655ccdafea546dee207be9"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:58:08|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:58:08|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:58:08|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:58:11|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:58:12|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"dddfd1187c5e8ec67e8a83794d076317"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:58:15|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BC"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:58:15|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"a999ac2de9982ff29077accc20024b33"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:59:35|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:59:35|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:59:38|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 15:59:38|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"384b98be17a293d6013730e009d13f9a"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:00:12|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:00:13|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:00:13|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:00:16|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:00:16|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"ccfec71a05c0875878a1c507414816d0"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:00:18|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:00:18|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"8a370485d20e8588b44512365dd0149b"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:00:20|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:00:20|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"7a2a58b01b4e8947c7320eb422a5c499"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:00:42|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:00:42|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:00:42|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:00:45|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:00:45|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"3dae7a4136b35abc3b6d90d2bb155c00"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:00:48|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:00:48|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"b8b3124137aa73d681e41fb6776090de"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:01:36|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:01:37|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:01:37|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:01:53|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:01:53|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:01:53|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:02:22|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:02:23|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:02:23|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:09:57|500|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:09:58|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:09:58|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:10:11|500|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:10:12|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:10:12|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:10:23|500|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:10:23|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:10:24|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:10:30|500|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:10:30|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:10:30|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:10:50|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:10:50|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:10:50|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:10:54|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:10:55|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"ca624c577f5612cff9fae09d474bd82b"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:11:59|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:12:00|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:12:00|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:12:02|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:12:03|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"835a9f6cfabc0c74c2a0e8c8d0995545"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:12:34|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:12:34|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"4e0a7b6d930ccba6351ef7846e1792ac"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:12:40|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:12:54|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:12:54|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"337116b8db575d4859bcad624133f692"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:14:22|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:14:23|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:14:23|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:14:26|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:14:26|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"a89f865a5bfc1cf7f0559a3a613b669f"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:14:29|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BC"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:14:29|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"8df0ea169432e806135f2b9bd96ba85a"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:14:32|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:14:33|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"e3caa03c9506669cfb2767cc1f4483a7"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:16:38|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:16:41|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:16:42|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"42e0e824d3bc3f9c6401a8e4a73168d4"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:16:47|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:16:48|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"5fa7500ff9a374acfeb7b1a835193126"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:37:42|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:39:18|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:39:18|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"2dbae0190928fc1a97caaad4a46f6917"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:39:20|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:39:21|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"e9ba3d1d58c5e7940c425fde21ab8536"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:40:47|200|GET|http://localhost:8080/webvpc/public/pass-change|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:40:51|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:40:53|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:41:32|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:43:03|200|POST|http://localhost:8080/webvpc/public/addusuario/get-usuario|{"registro":"B31243"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:43:03|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"c056063ff0058200b048547415938c5e"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:43:14|200|POST|http://localhost:8080/webvpc/public/addusuario/delete-usuario|{"registro":"B31243"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:43:14|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"cceed0cd0ae79a21c6d55e70cde8a8cd"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:43:14|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:43:17|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"B31243"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:43:18|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"db506381dc88e127d0e0aff475b5bc5c"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:43:18|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:43:22|200|POST|http://localhost:8080/webvpc/public/addusuario/delete-usuario|{"registro":"B31243"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:43:22|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"97aa34cac9a63a3b272941d908ef12c5"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:43:23|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:43:27|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"B31243"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:43:28|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"0f55a9e03c0c398193d941e3e38abaea"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:43:28|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:44:15|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:49:22|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:49:22|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"1956000d201cb0467df9a2ec5d1579d2"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:49:27|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BC"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:49:28|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"e7b25941c496febe8eeb1c39aae8f299"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:49:30|200|POST|http://localhost:8080/webvpc/public/addusuario/comboZonas|{"banca":"BPE"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:49:31|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f71e2a1acd48728a5ef7224df7adc2c1"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:50:17|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:50:41|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:50:52|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:50:55|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:50:59|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:51:10|200|GET|http://localhost:8080/webvpc/public/bpe/cli/cartera|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:51:56|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:57:39|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:57:39|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:57:39|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:58:29|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:58:30|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 16:58:30|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:02:01|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:02:02|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:02:02|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:03:33|500|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:03:34|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:03:34|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:04|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:05|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:05|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:05|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:06|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"66cdb7ec877972d435a2a4e24539dc04"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:06|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:07|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:07|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"c8faa748b62dec651fd1ddbd1283857d"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:07|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:08|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:09|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f2a9effdca47d1706031ce0a4982f026"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:09|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:10|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:10|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"6a7221ba5c560ddb062222c7c72ce426"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:10|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:11|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:12|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f1d3243655fe4a78397d73af136968cd"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:12|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:13|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:13|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"c55a3b97fe5f821689c56d066d295198"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:13|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:14|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:14|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"96056ebe0cf772fbf97215afc44da7ad"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:15|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:16|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:16|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"15c0a87233c65d1122606b081bbd7f4a"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:16|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:17|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:17|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f5b52192d350139d8cb969099173af2b"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:17|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:18|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:19|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"489c5de97ca5b7d7f3dcd3f8b374dd90"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:19|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:20|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:20|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"5ef09ce16381d5bec18fd5216641d016"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:20|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:21|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:22|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"640ef7613e3b7565a12ccfca8886887f"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:22|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:23|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:23|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"96d8d6035d0a747d6cdf16a33cba49dd"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:23|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:24|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:24|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"fe985891d44286d26e2cfd0c5fc84e48"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:24|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:25|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:26|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"370dcc9f3035bd9119f2842c10863db5"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:26|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:27|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:27|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"98fa3721dfae7b415596c69d4448f195"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:27|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:28|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:28|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"466db0804eb7ec43ec0a44b6192b8bfc"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:29|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:29|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:30|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"570c12ecf30e01ce27969de2713acb53"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:30|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:31|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:31|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"5f6f0b841f0349b39aea4a9acf069a2b"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:31|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:32|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:33|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"1147b0e17e8cc28cc5d790bf40a7848e"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:33|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:34|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:34|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"12855a7a6be245eb7d3b31f119f49957"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:34|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:35|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:35|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"d326452834f49a3a224e4b0abe87a989"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:35|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:36|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:37|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"25976a44684d354adeda8b5893cbda50"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:37|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:38|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:38|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"b96778b43a0b19d740562071a765d57a"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:38|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:39|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:40|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"84863bf526a88d178204851d62376d20"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:40|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:41|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:41|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"9fbfcfd60ccd41682c92a480e80429d1"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:41|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:42|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:42|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"ba80184a86fbfc7f4433911806e9e5e1"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:42|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:43|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:44|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"23070f6d6f7bc42455bd4a9d90a62184"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:44|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:45|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:45|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"0a03073d6d07c5c0726e8074d76bd1f5"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:45|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:46|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:46|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"dc95856bfb2caee06eb6e675782a6049"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:46|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:47|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:48|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"4ab5cb1d215acb57ce199e983add6d02"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:48|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:49|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:49|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"332ffc4a8e01fa78b509ca022a2ca36e"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:49|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:50|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:50|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"925cac89e5cd30505fd0fd75e64f695c"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:51|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:51|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:52|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"85161b4171f4a01330db3d33cfe0090e"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:52|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:53|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:53|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"b93f2d980e717edfb927c19ac22e3509"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:54|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:54|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:55|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"52c2156e9cfff143a44a5b986d12956b"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:55|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:56|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:56|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"bcf18de2d2481dbf120f2b47b01fa498"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:56|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:57|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:57|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"6f34ee43125afc6b327ebc37f410cc29"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:58|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:58|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:59|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"a2d570150a6ee5676359c6ccbfbebe29"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:04:59|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:00|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:00|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"2aedbe97bec8cc3f4c9fb8f52f10058b"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:00|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:01|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:01|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"059fb178e89312c3e678822376647e2b"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:02|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:02|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:03|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"1f033d33fc3ecab2fe8841a519dba607"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:03|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:04|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:04|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"69f47588fb6454a82c44377d835fcf5f"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:04|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:05|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:05|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"8e760a3bfe625b0d02fd5e7e95ffd208"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:06|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:07|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:07|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"5a8aad68cb25d8838bfde8a607f53bc6"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:07|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:08|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:08|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"d627a24b443378f00ee5f170e6725723"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:08|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:09|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:10|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"a4d9fffd90a42bf574a14adf6f92be69"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:10|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:11|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:11|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"324e41654a139a779e7a7ac288fbdd8a"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:11|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:12|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:12|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"1555f9e8d5d6380f638d0cf7a6393cdc"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:13|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:14|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:14|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"ded742239291262f46cbe9f6a771c544"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:14|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:15|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:15|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"1b1081c9f22e77181bde9d126ad05ecd"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:15|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:16|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:17|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"901bbd19efee173cd753d0d54029f14b"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:17|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:18|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:18|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"15514d66ee69fe8445fadf596d76f7cd"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:18|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:19|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:19|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"542267b3ee05c8a5ef7019bfa1f8431a"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:20|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:20|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:21|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"40bbba1e65858aa39660497b61e5a738"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:21|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:22|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:22|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"2feccef5f2544dcaae9b36ddda2c7123"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:22|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:23|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:23|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"5341b83a069708c6f812841f4670dd9f"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:24|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:25|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:25|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"21ceb1b631f5299e7c4707ad83947e51"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:25|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:26|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:26|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"c771f7796abc7dfe3e55ad7897c58b9c"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:27|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:27|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:28|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"05ee1a764e2b5afdd07ef60999cfcbd4"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:28|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:29|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:29|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"81c1da7d50ccf52f84c01dadcd15ec90"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:29|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:30|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:30|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"547e4ab245063ebaadf751a95258a471"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:31|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:32|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:32|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"5c9297516f20006b22bf5067e04c4f57"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:32|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:33|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:33|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"41334d61e971e3e932ba63308d26395f"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:33|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:34|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:35|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"6a3b547cc605218404113e36518ffd45"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:35|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:36|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:36|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"3aca31fabab1539ba97816bbadb80103"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:36|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:37|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:37|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"d0f528ab09590bb79aed6d50ae9f4f97"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:37|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:38|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:39|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"4a526a93f20d92637965702b5ecb8bd2"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:39|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:40|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:40|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"4dbeba15a89dd02727d11952f67ad706"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:40|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:41|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:41|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"0372f3ba48f95d6ff6db0532144f64f2"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:41|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:42|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:43|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"756f9fb81e31fbd88c97b8aff59f3a4f"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:43|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:44|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:44|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"69ffb0ab882b17c22a3c010ee0b2fa00"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:44|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:45|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:46|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"40185787b6dfa73e1a3f38a1b099c504"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:46|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:47|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:47|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"4ca60b208d2f10a29640ef652ed59db2"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:47|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:49|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:49|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"72d36119eedb9cd6b20b003a9373075e"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:49|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:50|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:51|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"72ce370d3300f2b8fba48a1ec5f0fa51"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:51|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:52|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:52|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"5bfa41aa35548a02956a982960d1c98f"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:52|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:53|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:53|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"6ab7c429f6e0ae0d94be0478535388f1"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:53|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:54|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:55|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"650c0dd0fd4fd583c31116ba243ac830"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:55|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:56|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:56|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"e1cf291c1e273439897a86f04298784b"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:56|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:57|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:57|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"ab2ad7e11cef603f85f79d703b4deca8"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:57|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:58|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:59|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"415138d9ef51238390efde777ccb734e"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:05:59|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:00|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:00|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"a943dd4dbeeb61e66ad5d5fbdf35743a"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:00|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:01|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:01|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"e0566aa7c6ec2d7ebbeb87fbabc1652e"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:02|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:02|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:03|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"65c4407e48803ef4bc13fdd1cb274f96"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:03|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:04|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:04|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"e7d65f7339ac064244a27d477a916ffd"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:04|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:05|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:06|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"c82d02943065e7ff7af59eef7de4c090"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:06|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:07|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:07|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"be51f79e35c51c6d128b89f032f7e6fa"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:07|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:08|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:08|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"3be2eb595279480e5408ca697fa59263"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:09|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:10|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:10|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"92e67a254978a9dfc313f61e622a2141"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:10|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:11|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:12|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f62244081a6e1a06103277e1e88ef74e"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:12|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:13|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:13|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"e46ada98062c8a9b810f2121b5fe1830"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:13|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:14|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:14|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"61ccc91ef2ebc11b3099bbbd5bb11082"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:15|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:16|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:16|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"b4db63a3e1d6ad181debc48a169c5eef"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:17|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:17|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:18|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"960e5473217ef3e8b15c4ef24ff6b545"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:18|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:19|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:19|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"965cd6a99af84077897692a0b30fe76d"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:19|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:20|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:21|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"04941730a05ee18e9be21129b328b012"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:21|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:22|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:22|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f5d2d80c6419ed72f68d7bf96056ccaf"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:22|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:23|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:24|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"14b6922a351b0dc5a859fa0562012b3a"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:24|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:25|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:25|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"19e7a3458c67e6302fd169629d9ba29f"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:25|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:26|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:26|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f3dd47ed6dc4b6dd6c81504db822e8e9"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:26|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:27|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:28|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"4a99e04884fda1fd63110c382e2d5fc2"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:28|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:29|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:29|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"4e42c59302041d2ddfb069b435fc76b5"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:29|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:30|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:30|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"c80b0ae4859668dc1c359ff22aa42b6e"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:30|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:31|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:32|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"280dbea595991abdf0a1f0225722bedd"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:32|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:33|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:33|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"39bd2d422db42e22a966efdd11bfddd2"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:33|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:34|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:34|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"b1ffc7efb55742e1801fa1f9a701bfc3"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:34|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:35|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:36|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"016d040ad06851e090d14360f4d52d67"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:36|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:37|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:37|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"448b0b2a6e64bf449372775b73a98c19"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:37|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:38|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:38|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"d99c30fc991e2fa31507cd34ca9e96bf"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:38|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:39|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:40|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"87eb87afe280eceb90c46f3cbf43e621"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:40|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:41|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:41|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"c3a97eccea67c11f7fd05c8e2bce41f5"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:41|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:42|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:43|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"8690334750c40d893ecbe30f7db4b041"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:43|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:44|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:44|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"fbf14594e77ff87ec49b9b3907680fcb"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:44|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:45|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:45|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"067edace7c90a3ec79c857284c5ff319"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:45|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:46|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:47|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"c65024d803044cd7f1d9f9fbd03835e6"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:47|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:48|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:48|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"8bca5697f6b9651ebdde51fb1162e9ad"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:48|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:49|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:50|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"45b49a866e6af9167a75a8273fcde010"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:50|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:51|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:51|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"185c99d9f89210848aefa80c3c0c8fe8"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:51|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:52|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:53|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"017095ec988b596e1846e3c1ffbe073c"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:53|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:54|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:54|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"376efd25e5c50e9960fd92a81d7199da"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:54|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:55|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:55|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"32321de70646399ab7b2db0f27737191"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:55|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:56|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:57|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"88d008ddcf90375f8727e0bdd3eaf9f8"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:57|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:58|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:58|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"8a64978f3d186cb09d07cf2a3071acf9"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:58|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:59|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:59|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"ebb667495c844416352e6959a4ad2a08"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:06:59|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:00|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:01|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"0964d7026d5abf4e8f7195a882935f3e"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:01|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:02|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:02|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"72a6a43da111cf50be54972818ded1f2"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:03|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:03|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:04|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"ad78d68da15fd978a45b6ecb1f58b114"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:04|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:05|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:05|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"3cce5539de278c239e5bafea817de4f2"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:05|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:06|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:06|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f4cae31d18a6e0b19667371acff8c4aa"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:07|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:07|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:08|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"60bc806daaf1c0c0dacc8c0641584a7d"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:08|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:09|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:09|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"56a05bdded7458570096ed24eb79c3f0"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:10|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:10|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:11|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"b8e29b229475e216bb4b540b22695a83"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:11|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:12|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:12|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"8f83b0dad6def965515c9bc9318e387f"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:12|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:13|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:13|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"da7e849124742fed951af47824c00abd"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:14|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:14|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:15|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"6f25a560ea65f4288259b603ca6b2e01"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:15|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:16|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:16|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"65f2bfaeaab8d2f57e3fec6fc36e6533"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:16|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:17|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:17|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"74b05839194540e58a39ba757fae2ccd"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:18|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:18|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:19|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"315046d024f894c31488da95dca86cf2"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:19|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:20|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:20|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f824d5d5fb156d89de4aee06c4cf5516"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:20|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:21|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:21|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"2befa6dd694bfbaff3fc66f0b51278f4"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:22|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:22|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:23|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"96992072772dc84d5b3ba39b757a1f57"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:23|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:24|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:24|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f9598233fb31d6dfb0d7ba727f276e27"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:24|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:25|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:25|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"481fad099607cd7918f86011fdb201df"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:26|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:26|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:27|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"6328c7b1624c0d979e423b727f50ccf9"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:27|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:28|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:29|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"84728797f167ab58595d6dbc18de49d6"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:29|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:30|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:30|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"7ab79f685d93ccf98f2506c7f1317b71"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:30|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:31|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:31|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"9567492b8a70fa9e9e6fdc82e8538531"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:31|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:32|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:33|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f68e9e7df57b43abe38b2e53a2b206eb"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:33|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:34|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:34|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"fb6b337947d0e763a3ff69ceea610daa"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:34|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:35|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:35|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:36|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:36|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:37|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"0beee309e9771fe4243e7695d04322d6"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:37|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:38|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:38|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"4f622b62f9d9d191c218b670334b1e7b"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:38|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:39|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:39|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"3285ca8a98d1fc1614348de79a45386b"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:40|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:41|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:41|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"21730b59e81977c9511daf7edc83fcaf"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:41|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:42|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:42|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"5ca4d5a723aeb03f33d84f60a1d7c48d"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:43|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:44|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:44|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"07391f91ea36086b9a145a8a1c292a8e"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:44|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:45|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:45|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"e56bf1811972dd859d12bd6db9b33703"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:45|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:46|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:47|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"3bedd05899b65306cbbe10de829ef532"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:47|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:47|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:48|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"6831ba58c858eaf433323e899e23f0e2"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:48|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:49|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:49|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"08d71068301f5c014d42606d5b8d16b1"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:49|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:50|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:50|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"baf33464da308667c9868b56c738daa8"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:51|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:51|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:52|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"82497bde857bf475f0a5554d2da28784"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:52|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:53|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:53|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"72049e39a656bcaaf1d463368f72762d"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:53|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:54|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:54|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"36f32478b6ab19ed6b595bb4dc359943"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:55|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:55|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:56|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"d0d4a9dd33f074ea901ae961e284b385"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:56|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:57|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:57|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"48b9b73d438807a68569c0f9800f732f"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:57|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:58|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:58|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"210a122bc71727370d8e4a64ce1bbfbe"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:59|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:07:59|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:00|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"be8e40bc826c42d54304070ba530864e"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:00|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:01|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:01|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"5f2b74c2a404686d3227016e302a6668"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:01|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:02|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:03|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"3e828a9389909d72860ca877f6599e2e"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:03|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:04|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:04|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"706ac90b8553b561fdfa6589047791c7"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:04|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:05|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:05|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f9ffbaff0dfb43f4944764c47ace3773"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:05|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:06|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:07|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"b0ad40a4c1ad299cd5d0c38f0cd05253"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:07|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:08|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:08|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"3ec6f722d64c37596cf0659b302bb50b"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:08|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:09|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:09|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f27e79fab8883bbb668d486b64dcdb96"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:10|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:11|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:11|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"cd5712d90cece34c794b4a4cd1be6194"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:11|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:12|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:12|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"9bea19387d43b8b530a04c11db7d49c7"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:12|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:13|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:14|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"73ff448de703ddff8934f7e8c80fa695"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:14|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:15|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:15|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"72eef6d181c6ca2f16ea34e1fe78926f"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:15|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:16|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:16|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"61153bccdea06bc599ad8aef3abfabf5"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:16|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:17|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:17|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"087b8980b39d6d4ed1376a2d2cf1587c"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:18|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:18|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:19|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"759521db9b970443f555f6f9e72f0009"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:19|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:20|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:20|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"bc0f475690270f88015807ed8ebbc13e"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:20|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:21|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:21|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"bc6a121967f8f38c649a43b17f498766"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:22|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:22|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:23|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"41bbf04891350db2509c5fec5d1fbc7b"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:23|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:24|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:24|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"fa40318cb0befba062a173bcb7cc3180"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:24|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:25|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:25|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"dd6246da30e771430002f6b5b6378ed7"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:25|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:26|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:27|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"948e5d53d7ed4cc3b85bd70d673b923d"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:27|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:28|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:28|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f86f6c17d263318b6505ccdfa8a2e463"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:28|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:29|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:30|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"7a8503feb8309abbf4f38f4cedf8998b"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:30|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:31|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:31|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"dc58539a34a44dee429a84ce6bcfd4f3"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:31|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:32|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:32|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"ef75fc9ab7fd6e90b1b18a79c29d013a"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:32|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:33|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:34|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"db2aaeab47e1fef3656439744acf6a10"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:34|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:35|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:35|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"c9fc47f8c2d6c05df3b76f6877c2a5c1"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:35|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:36|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:37|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"b9e50b0281a637f23ba0764d44fd6b1d"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:37|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:38|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:38|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"84b294f52ac3498902c1485dbee15857"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:38|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:39|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:40|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"0c702f3339b67f3c2a4e16e042329bbd"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:40|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:41|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:41|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"7223fbe4fbfb6567e0ae53341fd425c8"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:41|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:42|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:43|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f34bb324cbcc4b893913d7a06a93e4c5"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:43|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:44|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:44|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"ffad32c6a4879fe8690594a9e54d83fb"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:44|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:45|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:46|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"6180d8e477f1a765ed0613c6f0b15e14"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:46|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:47|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:47|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f9b7dd596e6f5289e5cca96555c04e4f"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:47|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:48|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:48|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"574455c4f938a3e2d1ed2a96c8ef361d"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:49|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:50|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:50|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"0e422030169ed3b7e1eefe05342532c7"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:51|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:52|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:52|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"458e65d58be407e4b178475387254002"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:52|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:53|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:53|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"c09e1845cc6371447048a67755d4a0d3"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:53|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:54|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:55|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"8caac351516af0f5a8d76cfaeb752987"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:55|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:56|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:56|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"ab69924b4ebf03efc6f12692cbc5894b"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:56|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:57|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:57|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"06ebe5abd885c8063d27f58a0c8051b7"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:57|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:58|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:59|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"a45338a975e4fe324092c95f2880b554"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:08:59|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:00|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:00|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"a47bd73b919fcad8cf5d79af813b5741"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:00|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:01|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:01|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"17cf7c14130e0de4eacbaa1539fd20e8"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:01|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:02|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:03|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"ec31b4ad879f2e3d7701bd5e1f309ae9"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:03|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:04|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:04|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"7b4fdede2698ca26fb2b986b77d420d4"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:04|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:05|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:05|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"7cfccd4d38b7905880b7a4a0700d9e88"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:05|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:06|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:07|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"5b0145219ffcff5d0e3a900252457785"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:07|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:08|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:08|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"43163911da26927f10ad1395d95576ba"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:08|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:09|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:09|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"545f4222df0d6463c8763190d244401a"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:09|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:10|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:11|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"ab943551e57a6af2b91f8314bf0644db"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:11|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:12|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:12|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"abd36ac17493ce054eaae431e8c63085"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:12|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:13|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:14|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"7348ce8f9f5684e6e3b8ceabf8248d84"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:14|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:15|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:15|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"37ca4856ad781f452f3a0f2914f125b0"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:15|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:16|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:16|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"bb32254a62f9293a04fbc0ea64b3390b"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:16|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:17|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:17|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"6c30ac4e96ed7b6da08b1925b0973b22"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:18|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:18|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:19|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"0914f399106e6e3739e867c1319db49d"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:19|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:20|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:20|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"169d09fb44e1f2bad6a0c9a76f4ef284"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:20|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:21|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:21|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"ea781a3e80834fed096827c3f44ca159"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:22|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:22|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:23|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"3023bd0654733f73a5ecbcb41ad0a0bd"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:23|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:24|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:24|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"ec87d6af37ae16f5eba465dbdffbebdc"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:24|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:25|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:25|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"5d0575c808b2c2c3c74746caf3d4374f"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:26|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:26|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:27|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"6eee8565728ab5594df3de547d34683b"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:27|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:28|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:28|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"00cf372c45ca2c34127c01024f5080df"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:28|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:29|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:29|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"5ee27063b43b60a850d17ce7f233c2a7"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:29|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:30|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:31|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f82de4de817b42540b9e34f18ac03648"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:31|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:32|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:32|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"3d8bda454c68b116c91c0727337f2d36"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:32|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:33|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:33|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"40740d23ff91d4189410c30ffefb4a79"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:33|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:34|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:35|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"c8b5181f8d079fa94a661f2a95607d7b"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:35|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:36|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:36|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"0ec645f13e3e9692ee5da5d2a4bdeb5f"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:36|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:37|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:37|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"2b8fc064e4cd8ac94fe1e69dc9357b02"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:37|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:38|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:39|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"fd4596bd0f50800d39615f8c1662567c"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:39|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:40|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:40|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"a982420d77927532a0b320dac7aa7d91"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:40|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:41|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:41|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"91e3d52bc3aca1a6db8ae6097dd20b24"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:41|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:42|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:43|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"39dc1d39ee0d381bdba130f79085ca85"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:43|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:44|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:44|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"5b0b14c82a40acd68ab044c66ea68736"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:44|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:45|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:46|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f7928786ba8f06796f536a21234d37dc"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:46|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:47|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:47|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"60f5634883b81b519480cead255147b5"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:47|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:48|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:48|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"a1467ad4964e7066bbc11a26bc50c774"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:48|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:49|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:50|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"51980f7ae7191c0c69a5f881ff809c2d"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:50|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:51|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:51|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"4ea7787ab6aabab9c3813aa139e3dfea"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:51|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:52|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:52|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"e7086306ed6d897917812fd57e5aa040"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:52|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:53|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:54|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"f030084ad349e5ce5dc2987c915fadc6"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:54|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:55|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:55|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"2a83ebe10bb25bc0bdd40f9d0165f1b2"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:55|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:56|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:57|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"b83659f4a114e8c5fbf103de19046d35"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:57|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:58|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:58|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"9c8507dc30d5a5d4d46a64f79095a267"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:59|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:09:59|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:10:00|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"b1291cec96290b0036edd199906cecf7"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:10:00|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:10:01|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:10:01|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"ec7e6b80598ce9a61d3d6bcdee8f8c29"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:10:02|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:10:02|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:10:20|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:10:20|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:10:20|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:10:21|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:10:21|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"a1a3b2456227fdbd3756ea7c04d401f4"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:10:21|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:10:31|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:11:32|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:11:33|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:11:33|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:11:34|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:11:35|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:11:36|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"c943162c17084ca2b7061c6c50792948"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:11:36|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:11:37|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:12:29|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:14:27|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:15:02|500|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:15:02|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:15:02|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:15:17|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:15:18|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:15:19|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:15:19|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"6acc2eaf4aea633923991a7182789565"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:15:19|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:15:20|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:15:20|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"46bd6f7d822dc53143fbb921c0520d28"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:15:20|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:15:21|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:15:22|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"9424bfa1be08ccccd513d8d58de6537f"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:15:22|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:16:14|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:16:14|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:16:14|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:16:15|200|POST|http://localhost:8080/webvpc/public/addusuario/activar-usuario|{"registro":"[object HTMLInputElement]"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:16:15|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"54b2acf114ffd964d8f782b9102f1147"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:16:16|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:16:22|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:16:52|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:17:26|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:17:26|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:17:26|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:21:29|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:21:30|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:21:30|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:21:31|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:21:32|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:22:11|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:24:05|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:26:00|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:26:00|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:26:00|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:26:08|200|GET|http://localhost:8080/webvpc/public/addusuario/nuevo|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:26:10|200|GET|http://localhost:8080/webvpc/public/addusuario|[]
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:26:13|200|POST|http://localhost:8080/webvpc/public/addusuario/get-usuario|{"registro":"B31243"}
+B35703|::1|Windows|7|Chrome|72.0.3626.119|2019-03-04 17:26:14|200|GET|http://localhost:8080/webvpc/public/_debugbar/open|{"op":"get","id":"d8019f2eb82a908114cd542700d7f20c"}

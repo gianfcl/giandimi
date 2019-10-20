@@ -1,0 +1,10 @@
+guest|::1|Windows|7|Chrome|72.0.3626.109|2019-02-22 09:45:59|200|GET|http://localhost:8080/webvpc/public/extra-login|[]
+guest|::1|Windows|7|Chrome|72.0.3626.109|2019-02-22 09:46:00|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+guest|::1|Windows|7|Chrome|72.0.3626.109|2019-02-22 09:46:00|200|GET|http://localhost:8080/webvpc/public/_debugbar/assets/javascript|{"v":"1502731300"}
+b30114|::1|Windows|7|Chrome|72.0.3626.109|2019-02-22 09:46:40|302|POST|http://localhost:8080/webvpc/public/extra-attempt|{"_token":"qq32BHNlvWh2Bk2U04x9Ebb0y8B2fQr1eoGjPxHz","registro":"b30114","passw":"VPC201801*"}
+b30114|::1|Windows|7|Chrome|72.0.3626.109|2019-02-22 09:47:01|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+guest|::1|Windows|7|Chrome|72.0.3626.109|2019-02-22 14:05:07|302|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
+guest|::1|Windows|7|Chrome|72.0.3626.109|2019-02-22 14:05:08|200|GET|http://localhost:8080/webvpc/public|[]
+guest|::1|Windows|7|Chrome|72.0.3626.109|2019-02-22 14:05:15|200|GET|http://localhost:8080/webvpc/public/extra-login|[]
+b30114|::1|Windows|7|Chrome|72.0.3626.109|2019-02-22 14:05:30|302|POST|http://localhost:8080/webvpc/public/extra-attempt|{"_token":"gj6glaMFGmjf5NuCKYLkmcHgtqnY25kWvFy6N9FO","registro":"b30114","passw":"VPC201801*"}
+b30114|::1|Windows|7|Chrome|72.0.3626.109|2019-02-22 14:05:31|200|GET|http://localhost:8080/webvpc/public/bpe/en/leads|[]
