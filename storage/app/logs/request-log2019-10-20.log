@@ -31,3 +31,11 @@ JUNIOR|::1|Windows|10.0|Chrome|77.0.3865.120|2019-10-20 00:12:46|200|GET|http://
 JUNIOR|::1|Windows|10.0|Chrome|77.0.3865.120|2019-10-20 00:12:47|404|GET|http://localhost/wpaddy/public/genious/css/bootstrap.min.css.map|[]
 JUNIOR|::1|Windows|10.0|Chrome|77.0.3865.120|2019-10-20 00:12:47|404|GET|http://localhost/wpaddy/public/videos/libs/modernizr.video.js|[]
 JUNIOR|::1|Windows|10.0|Chrome|77.0.3865.120|2019-10-20 00:12:47|404|GET|http://localhost/wpaddy/public/videos/libs/video_background.js|[]
+JUNIOR|::1|Windows|10.0|Chrome|77.0.3865.120|2019-10-20 00:19:37|200|GET|http://localhost/wpaddy/public/productos|[]
+JUNIOR|::1|Windows|10.0|Chrome|77.0.3865.120|2019-10-20 00:19:38|404|GET|http://localhost/wpaddy/public/videos/libs/modernizr.video.js|[]
+JUNIOR|::1|Windows|10.0|Chrome|77.0.3865.120|2019-10-20 00:19:38|200|GET|http://localhost/wpaddy/public/_debugbar/assets/javascript|{"v":"1502731300"}
+JUNIOR|::1|Windows|10.0|Chrome|77.0.3865.120|2019-10-20 00:19:38|404|GET|http://localhost/wpaddy/public/videos/libs/swfobject.js|[]
+JUNIOR|::1|Windows|10.0|Chrome|77.0.3865.120|2019-10-20 00:19:38|200|GET|http://localhost/wpaddy/public/_debugbar/assets/stylesheets|{"v":"1502731300"}
+JUNIOR|::1|Windows|10.0|Chrome|77.0.3865.120|2019-10-20 00:19:38|404|GET|http://localhost/wpaddy/public/videos/libs/modernizr.video.js|[]
+JUNIOR|::1|Windows|10.0|Chrome|77.0.3865.120|2019-10-20 00:19:39|404|GET|http://localhost/wpaddy/public/videos/libs/video_background.js|[]
+JUNIOR|::1|Windows|10.0|Chrome|77.0.3865.120|2019-10-20 00:19:40|404|GET|http://localhost/wpaddy/public/genious/css/bootstrap.min.css.map|[]
