@@ -4,7 +4,7 @@
 @stop
 @section('content')
 @section('pageTitle', 'Productos')
-<table>
+<table class="table">
     <thead>
         <tr>
             <th>NOMBRE</th>

@@ -56,14 +56,14 @@ var APP_PUBLIC_URL = "<?php echo config('app.url'); ?>";
 
 
     </head>
-    <body class="left-menu">  
+    <body class="left-menu">
         
         <div class="menu-wrapper">
             <header class="vertical-header">
                 <div class="vertical-header-wrapper">
                     <nav class="nav-menu">
                         <div class="logo">
-                            <a href="index.html"><img src="{{ URL::asset('img/paddy/paddy_logo_2.png') }}" alt=""></a>
+                            <a href="#"><img src="{{ URL::asset('img/paddy/paddy_logo_2.png') }}" alt=""></a>
                         </div><!-- end logo -->
                         <div class="profile clearfix">
                             <div class="profile_info" style="padding-top: 15px;">
@@ -89,7 +89,7 @@ var APP_PUBLIC_URL = "<?php echo config('app.url'); ?>";
 
         <div id="wrapper">
             <div id="home">
-                <div class="row">
+                <div class="row" style="width: 10%;margin-left: 1320px">
                     <ul class="nav navbar-nav navbar-right" style="width: auto;">
                         <li class="">
                             <a href="{{ route('logout') }}">
@@ -99,9 +99,9 @@ var APP_PUBLIC_URL = "<?php echo config('app.url'); ?>";
                     </ul>
                 </div>
             </div>
-            <div id="content" class="right_col" role="main" style="min-height: 1550px;">
+            <div id="content" class="right_col" role="main" style="min-height: 900px;">
                 <div style="margin-top: 4%;">
-                    <div class="page-title">
+                    <div class="page-title" style="width: 90%;">
                         <div class="row">
                             <div class="col-sm-8">
                                 <h3>@yield('pageTitle')</h3>
