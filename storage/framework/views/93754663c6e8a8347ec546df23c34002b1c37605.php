@@ -27,11 +27,6 @@
         <link rel="stylesheet" href="<?php echo e(URL::asset('genious/css/carousel.css')); ?>">
         <link rel="stylesheet" href="<?php echo e(URL::asset('genious/style.css')); ?>">
 
-        <!-- VIDEO BG PLUGINS -->
-        <script src="videos/libs/swfobject.js"></script> 
-        <script src="videos/libs/modernizr.video.js"></script> 
-        <script src="videos/libs/video_background.js"></script>
-
         <script type="text/javascript"  src="<?php echo e(URL::asset('genious/js/jquery.min.js')); ?>"></script>
         <script type="text/javascript"  src="<?php echo e(URL::asset('genious/js/bootstrap.min.js')); ?>"></script>
         <script type="text/javascript"  src="<?php echo e(URL::asset('genious/js/carousel.js')); ?>"></script>
@@ -121,22 +116,6 @@ var APP_PUBLIC_URL = "<?php echo config('app.url'); ?>";
             <footer class="section footer">
             </footer>
         </div>
-        <script>
-            jQuery(document).ready(function($) {
-                var Video_back = new video_background($("#home"), { 
-                    "position": "absolute", //Follow page scroll
-                    "z-index": "-1",        //Behind everything
-                    "loop": true,           //Loop when it reaches the end
-                    "autoplay": true,       //Autoplay at start
-                    "muted": true,          //Muted at start
-                    "mp4":"<?php echo e(URL::asset('img/paddy/videos/video.mp4')); ?>" ,     //Path to video mp4 format
-                    "video_ratio": 1.7778,              // width/height -> If none provided sizing of the video is set to adjust
-                    "fallback_image": "<?php echo e(URL::asset('img/paddy/images/dummy.png')); ?>",   //Fallback image path
-                    "priority": "html5"             //Priority for html5 (if set to flash and tested locally will give a flash security error)
-                });
-            });
-        </script>
-
     </body>
 <?php echo $__env->yieldContent('js-scripts'); ?>
 </html>
