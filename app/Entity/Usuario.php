@@ -28,17 +28,17 @@ class Usuario extends \App\Entity\Base\Entity {
 
     public function setFromAuth($user) {
 
-        $this->setValue('_nombre', $user->NOMBRE);
-        $this->setValue('_usuario', $user->USUARIO);
-        $this->setValue('_password', $user->PASSWORD);
-        $this->setValue('_rol', $user->ROL);
-        $this->setValue('_pais', $user->PAIS);
-        $this->setValue('_region', $user->REGION);
-        $this->setValue('_departamento', $user->DEPARTAMENTO);
-        $this->setValue('_distrito', $user->DISTRITO);
-        $this->setValue('_calle', $user->CALLE);
-        $this->setValue('_estado', $user->ESTADO);
-        $this->setValue('_correo', $user->CORREO);
+        $this->setValue('_nombre', $user->nombre);
+        $this->setValue('_usuario', $user->usuario);
+        $this->setValue('_password', $user->password);
+        $this->setValue('_rol', $user->rol);
+        $this->setValue('_pais', $user->pais);
+        $this->setValue('_region', $user->region);
+        $this->setValue('_departamento', $user->departamento);
+        $this->setValue('_distrito', $user->distrito);
+        $this->setValue('_calle', $user->calle);
+        $this->setValue('_estado', $user->estado);
+        $this->setValue('_correo', $user->correo);
     }
 
 
@@ -47,10 +47,12 @@ class Usuario extends \App\Entity\Base\Entity {
         switch ($rol) {
             case self::ROL_ADMINISTRADOR:
                 return 'productos';
+                break;
             case self::ROL_USUARIOS:
                 return 'productos';
+                break;
             default:
-                return 'welcome';
+                return 'login.index';
         }
     }
 

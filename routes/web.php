@@ -70,6 +70,7 @@ Route::group(['prefix' => 'ecosistema', 'middleware' => ['authBase','authRol:20|
 
 Route::group(['middleware' => ['authBase','authRol:1|2']], function() {
   Route::get('/productos',['as'=>'productos','uses'=>'CatalogoController@index']);
+  Route::get('/productos/editarticulo',['as'=>'productos.editarticulo','uses'=>'CatalogoController@editarticulo']);
 });
 
 Route::get('/download/{file}',function($file){

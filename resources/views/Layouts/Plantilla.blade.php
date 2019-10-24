@@ -63,7 +63,7 @@ var APP_PUBLIC_URL = "<?php echo config('app.url'); ?>";
                         <div class="profile clearfix">
                             <div class="profile_info" style="padding-top: 15px;">
                                 <span>Bienvenido,</span>
-                                <h5 style="color: white">{{ Auth::user()->NOMBRE }}</h5>
+                                <h5 style="color: white">{{ Auth::user()->nombre }}</h5>
                             </div>
                         </div>
 

@@ -15,7 +15,7 @@ class Usuario extends Authenticatable{
      *
      * @var string
      */
-    protected $primaryKey ='ID';
+    protected $primaryKey ='id';
 					        
 
         /**
@@ -27,11 +27,11 @@ class Usuario extends Authenticatable{
     
     
     protected $fillable = [
-        'USUARIO',
-        'PASSWORD',
-        'ROL',
-        'NOMBRE',
-        'TOKEN'
+        'nombre',
+        'usuario',
+        'password',
+        'token',
+        'rol'
         ];
 
     /**
@@ -40,12 +40,12 @@ class Usuario extends Authenticatable{
      * @var array
      */
     protected $guarded = [
-        'ID',
-        'USUARIO',
-        'PASSWORD',
-        'ROL',
-        'NOMBRE',
-        'TOKEN'
+        'id',
+        'nombre',
+        'usuario',
+        'password',
+        'token',
+        'rol'
         ];
 
 
@@ -53,14 +53,13 @@ class Usuario extends Authenticatable{
 
 
     public function getAuthPassword () {
-        return $this->PASSWORD;
+        return $this->password;
     }
 
 
-        public function getRememberToken()
-    {
-        if (! empty($this->TOKEN)) {
-            return $this->TOKEN;
+    public function getRememberToken(){
+        if (! empty($this->token)) {
+            return $this->token;
         }
     }
 
@@ -72,44 +71,44 @@ class Usuario extends Authenticatable{
      */
     public function setRememberToken($value)
     {
-        if (! empty($this->TOKEN)) {
-            $this->TOKEN = $value;
+        if (! empty($this->token)) {
+            $this->token = $value;
         }
     }
 
     public function hasRole($rol){
-        return in_array($rol, [$this->ROL]);
+        return in_array($rol, [$this->rol]);
     }
 
     static function updateMasive(){
-        $usuarios = DB::table('USUARIOS AS WU')->select('WU.USUARIO','WU.CORREO')
+        $usuarios = DB::table('USUARIOS AS WU')->select('WU.usuario','WU.correo')
         ->where('rol','=',29)
-        ->whereNull('PASSWORD')
+        ->whereNull('password')
         ->get();
         //dd($usuarios);
         foreach ($usuarios as $usuario) {
             DB::table('USUARIOS') 
-            ->where('USUARIO','=',$usuario->USUARIO)
-            ->update(['PASSWORD' => Hash::make($usuario->USUARIO)]);
+            ->where('usuario','=',$usuario->usuario)
+            ->update(['password' => Hash::make($usuario->usuario)]);
         }
     }
     
     static function updatePassword($usuario,$password){
         return DB::table('USUARIOS')
-             ->where('USUARIO','=',$usuario)
-            ->update(['PASSWORD' => Hash::make($password)]);
+             ->where('usuario','=',$usuario)
+            ->update(['password' => Hash::make($password)]);
     }
 
     public function updateNewPassword($usuario,$password){
         return DB::table('USUARIOS')
-             ->where('USUARIO','=',$usuario)
-            ->update(['PASSWORD' => Hash::make($password)]);
+             ->where('usuario','=',$usuario)
+            ->update(['password' => Hash::make($password)]);
     }
     
     public function verifyPassword($usuario,$apassword){
         $sql = DB::table('USUARIOS AS WU')
-               ->where('WU.USUARIO', '=', $usuario)
-               ->where('WU.ESTADO','=','1');
+               ->where('WU.usuario', '=', $usuario)
+               ->where('WU.estado','=','1');
          
         //El usuario encontrado es la primera coincidencia (usuario es unico)     
         $usuario = $sql->first();

@@ -17,10 +17,10 @@ class AuthRol extends AuthBase
     public function handle($request, Closure $next,$rol = null)
     {
         $roles = explode('|', $rol);
-        if(in_array($this->auth->user()->ROL,$roles)){
+        if(in_array($this->auth->user()->rol,$roles)){
             return $next($request);
         }else{
-            return redirect()->route(Usuario::redirectRol($this->auth->user()->ROL));
+            return redirect()->route(Usuario::redirectRol($this->auth->user()->rol));
         }
     }
 }

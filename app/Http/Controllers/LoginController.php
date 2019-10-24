@@ -15,7 +15,7 @@ class LoginController extends Controller {
      */
     public function index() {
         if(\Auth::check()){
-            return redirect()->route(Usuario::redirectRol(Auth::user()->ROL)); 
+            return redirect()->route(Usuario::redirectRol(Auth::user()->rol)); 
         }
         return view('login');
     }
@@ -28,7 +28,7 @@ class LoginController extends Controller {
             flash('Usuario o Contraseña errado')->error();
             return redirect()->route('login.index');
         }
-        return redirect()->route(Usuario::redirectRol(Auth::user()->ROL))->with('popUpLogueo', 1);
+        return redirect()->route(Usuario::redirectRol(Auth::user()->rol))->with('popUpLogueo', 1);
     }
 
 
@@ -50,7 +50,7 @@ class LoginController extends Controller {
         if (!Auth::attempt(['REGISTRO' => $usuario, 'password' => $usuario])) {
             return redirect()->route('home.sa-login');    
         }
-        return redirect()->route(Usuario::redirectRol(Auth::user()->ROL));
+        return redirect()->route(Usuario::redirectRol(Auth::user()->rol));
     }
 
     public function demoLogin() {
@@ -67,7 +67,7 @@ class LoginController extends Controller {
             die('error');
             return redirect()->route('home.demo-login');
         }
-        return redirect()->route(Usuario::redirectRol(Auth::user()->ROL));
+        return redirect()->route(Usuario::redirectRol(Auth::user()->rol));
     }
 
 
@@ -75,9 +75,9 @@ class LoginController extends Controller {
     protected function register($usuario) {
         \App\Model\Usuario::create([
             'NOMBRE' => 'Usuario',
-            'ROL' => 5,
-            'REGISTRO' => $usuario,
-            'PASS' => Hash::make($usuario),
+            'rol' => 5,
+            'registro' => $usuario,
+            'password' => Hash::make($usuario),
         ]);
     }
 
