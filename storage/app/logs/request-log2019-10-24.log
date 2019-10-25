@@ -1,6 +1,0 @@
-guest|::1|Windows|10.0|Chrome|78.0.3904.70|2019-10-24 23:58:51|302|GET|http://localhost/wpaddy/public/productos|[]
-guest|::1|Windows|10.0|Chrome|78.0.3904.70|2019-10-24 23:58:53|200|GET|http://localhost/wpaddy/public|[]
-guest|::1|Windows|10.0|Chrome|78.0.3904.70|2019-10-24 23:58:53|200|GET|http://localhost/wpaddy/public/_debugbar/assets/stylesheets|{"v":"1571626136"}
-guest|::1|Windows|10.0|Chrome|78.0.3904.70|2019-10-24 23:58:53|200|GET|http://localhost/wpaddy/public/_debugbar/assets/javascript|{"v":"1571626136"}
-|::1|Windows|10.0|Chrome|78.0.3904.70|2019-10-24 23:58:58|302|POST|http://localhost/wpaddy/public/login|{"_token":"1RyF8my09Bn7g6eFcoMSi3lghNEAQZB9aCwI5U18","usuario":"Gian","password":"1234"}
-|::1|Windows|10.0|Chrome|78.0.3904.70|2019-10-24 23:58:59|200|GET|http://localhost/wpaddy/public/productos|[]
