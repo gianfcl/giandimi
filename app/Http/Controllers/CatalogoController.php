@@ -2,6 +2,7 @@
 namespace App\Http\Controllers;
 
 use App\Entity\Catalogo as Catalogo;
+use Yajra\Datatables\Datatables as Datatables;
 use Illuminate\Http\Request;
 use Validator;
 
@@ -10,7 +11,8 @@ class CatalogoController extends Controller{
 	{
 		$entidad=new Catalogo();
 		return view("productos")
-				->with('productos',$entidad->getProductos());
+				->with('productos',$entidad->getProductos())
+				->with('empresas',$entidad->getEmpresas());
 	}
 	public function editarticulo(Request $request)
 	{
@@ -25,6 +27,21 @@ class CatalogoController extends Controller{
 			flash('No se pudo agregar el producto');
 			return redirect()->route('productos');
 		}
+	}
+
+	public function peru()
+	{
+		return view ('mapa');
+	}
+
+	public function tablaplugin()
+	{
+		return view ('productos_2');
+	}
+
+	public function gettablaplugin(Request $request)
+	{
+		return Datatables::of(Catalogo::getTabla($request->all()))->make(true);
 	}
 }
 
