@@ -15,11 +15,11 @@ class Roles extends \App\Entity\Base\Entity {
     protected $_nombre;
     protected $_flgactivo;
 
-    function setFormatValue() {
+    function setValues($data) {
 
-        $this->setValue('_rol', $user->ROL);
-        $this->setValue('_nombre', $user->NOMBRE);
-        $this->setValue('_flgactivo', $user->FLG_ACTIVO);
+        $this->setValue('_rol', $data->ROL);
+        $this->setValue('_nombre', $data->NOMBRE);
+        $this->setValue('_flgactivo', $data->FLG_ACTIVO);
     }
 
     function getRoles($rol=null)
@@ -30,5 +30,24 @@ class Roles extends \App\Entity\Base\Entity {
         }else{
             return $model->getRoles($rol);
         }
+    }
+
+    function Addrol($data)
+    {
+        $datos = [
+            'NOMBRE'=>strtoupper($data['NOMBRE']),
+            'FLG_ACTIVO'=>$data['FLG_ACTIVO']
+        ];
+        $model = new mRoles();
+        return $model->AddRol($datos);
+    }
+
+    function DeleteRol($data)
+    {
+        $actualizar=[
+            'FLG_ACTIVO'=>0
+        ];
+        $model = new mRoles();
+        return $model->EditRol($data['id'],$actualizar);
     }
 }

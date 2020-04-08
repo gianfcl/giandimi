@@ -67,4 +67,10 @@ Route::group(['middleware' => ['authBase','authRol:1|2']], function() {
   Route::get('/addusuario',['as'=>'addusuario','uses'=>'UsuarioController@Addusuario']);
   Route::get('/editar',['as'=>'usuarios.editar','uses'=>'UsuarioController@Editusuario']);
   Route::get('/delete',['as'=>'usuario.delete','uses'=>'UsuarioController@Deleteusuario']);
+
+  Route::get('/roles',['as'=>'roles.index','uses'=>'RolesController@index']);
+  Route::get('/getRoles',['as'=>'roles.getRoles','uses'=>'RolesController@getRoles']);
+  Route::get('/addrol',['as'=>'roles.addrol','uses'=>'RolesController@Addrol']);
+  Route::get('/formroles',['as'=>'roles.formroles','uses'=>'RolesController@formroles']);
+  Route::get('/deleterol',['as'=>'roles.delete','uses'=>'RolesController@DeleteRol']);
 });

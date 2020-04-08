@@ -51,17 +51,21 @@ var APP_PUBLIC_URL = "<?php echo config('app.url'); ?>";
                         <br />
 
                         <!-- sidebar menu -->
-                        <div id="sidebar_menu" class="main_menu_side hidden-print main_menu">
-                            <div class="menu_section">
-                                <ul class="nav side-menu">
-                                    <li class="{{ (Route::currentRouteName() == 'usuario.index')? 'active':'' }}">
-                                        <a href="{{ route('usuario.index') }}"><i class="fa fa-key"></i> Usuarios</a>
-                                    </li> 
-
-                                </ul>
+                        <?php
+                            $entidad = new \App\Entity\Menu ();
+                            $menus = $entidad->getMenus();
+                        ?>
+                        @foreach($menus as $menu)
+                            <div id="sidebar_menu" class="main_menu_side hidden-print main_menu">
+                                <div class="menu_section">
+                                    <ul class="nav side-menu">
+                                        <li class="{{Route::currentRouteName() == $menu->RUTA? 'active':''}}">
+                                            <a href="{{ route($menu->RUTA) }}"><i class="fa fa-key"></i>{{$menu->NOMBRE}}</a>
+                                        </li>
+                                    </ul>
+                                </div>
                             </div>
-
-                        </div>
+                        @endforeach
                         <!-- /menu footer buttons -->
                     </div>
                 </div>
