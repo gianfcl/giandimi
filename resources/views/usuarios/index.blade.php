@@ -33,7 +33,7 @@
 
 @section('content')
 @section('tituloCentrado','USUARIOS')
-<a class="btn btn-success" href="{{route('formaddusuario')}}">Agregar Usuario</a>
+<a class="btn btn-success" href="{{route('formaddusuario')}}">Agregar Usuario <i class="fa fa-hand-pointer-o" aria-hidden="true"></i></a>
 <div class="row">
 	<div class="col-xs-12">
 		<div class="x_content">
@@ -43,6 +43,7 @@
 						<th>USUARIO</th>
 						<th>NOMBRE</th>
 						<th>ROL</th>
+						<th>ACCIONES</th>
 					</tr>
 				</thead>
 				<tbody>
@@ -119,11 +120,18 @@
 					render: function(data, type, row) {
 						return row.nombrerol;
 					}
+				},
+				{
+					targets: 3,
+					data: null,
+					render: function(data, type, row) {
+						return "<a class='btn btn-primary editar'>Editar</a>";
+					}
 				}
 			],
 			columns: [{
 					data: 'usuario',
-					name: 'U.usuario'
+					name: 'usuario'
 				},
 				{
 					data: 'nombre',
@@ -131,7 +139,7 @@
 				},
 				{
 					data: 'nombrerol',
-					name: 'R.nombrerol'
+					name: 'nombrerol'
 				}
 			]
 		});
