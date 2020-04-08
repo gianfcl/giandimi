@@ -61,3 +61,6 @@ Route::get('/download/{file}',function($file){
 })->name('download');
 
 Route::get('/usuarios',['as'=>'usuario.index','uses'=>'UsuarioController@index']);
+Route::get('/getusuarios',['as'=>'usuario.getUsuarios','uses'=>'UsuarioController@getUsuarios']);
+Route::get('/formaddusuario',['as'=>'formaddusuario','uses'=>'UsuarioController@FormAddusuario']);
+Route::get('/addusuario',['as'=>'addusuario','uses'=>'UsuarioController@Addusuario']);

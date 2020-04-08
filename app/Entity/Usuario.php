@@ -3,16 +3,11 @@
 namespace App\Entity;
 
 use App\Model\Usuario as mUsuario;
+use App\Entity\Roles as Roles;
 use \Illuminate\Pagination\LengthAwarePaginator as Paginator;
-use App\Entity\Canal as Canal;
 use DB;
 
 class Usuario extends \App\Entity\Base\Entity {
-
-    const ROL_ADMINISTRADOR = 1;
-    const ROL_USUARIOS = 2;
-    
-    const ITEMS_PER_PAGE = 15;
 
     protected $_nombre;
     protected $_usuario;
@@ -36,10 +31,10 @@ class Usuario extends \App\Entity\Base\Entity {
     static function redirectRol($rol) {
         
         switch ($rol) {
-            case self::ROL_ADMINISTRADOR:
+            case Roles::ROL_ADMINISTRADOR:
                 return 'usuario.index';
                 break;
-            case self::ROL_USUARIOS:
+            case Roles::ROL_JEFE:
                 return 'usuario.index';
                 break;
             default:
@@ -66,4 +61,23 @@ class Usuario extends \App\Entity\Base\Entity {
         $model->updateMasive();
     }
 
+    function getUsuarios($usuario=null,$password=null){
+        $model = new mUsuario();
+        if (!empty($usuario) && !empty($password)) {
+            return $model->getUsuarios($usuario,$password)->first();
+        }else{
+            return $model->getUsuarios($usuario,$password);
+        }
+    }
+
+    function Addusuario($data)
+    {
+        $data['flg_activo']=1;
+        // dd($data);
+        $model = new mUsuario();
+        if ($model->Addusuario($data)) {
+            return mUsuario::updatePassword($data['usuario'], $data['password']);
+        }
+        return false;
+    }
 }

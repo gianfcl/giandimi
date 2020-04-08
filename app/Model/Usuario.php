@@ -81,8 +81,53 @@ class Usuario extends Authenticatable{
     }
 
     static function updatePassword($usuario,$password){
-        return DB::table('USUARIOS')
-             ->where('usuario','=',$usuario)
+        DB::beginTransaction();
+        $status = true;
+        try {
+            DB::table('USUARIOS')
+            ->where('usuario','=',$usuario)
+            ->where('password','=',$password)
             ->update(['password' => Hash::make($password)]);
+
+            DB::commit();
+        } catch (\Exception $e) {
+            Log::error('BASE_DE_DATOS|' . $e->getMessage());
+            $status = false;
+            DB::rollback();
+        }
+
+        return $status;
+    }
+
+    function getUsuarios($usuario=null,$password=null)
+    {
+         $sql = DB::table('USUARIOS AS U')
+                ->leftjoin('ROLES AS R',function ($join)
+                {
+                    $join->on('U.ROL','=','R.ROL');
+                })
+                ->select('U.*','R.NOMBRE AS nombrerol');
+        if (!empty($usuario)) {
+            $sql=$sql->where('U.usuario','=',$usuario);
+        }
+        if(!empty($password)){
+            $sql=$sql->where('U.password','=',$password);
+        }
+            return $sql->get();
+    }
+
+    function Addusuario($data)
+    {
+        DB::beginTransaction();
+        $status = true;
+        try {
+            DB::table('USUARIOS')->insert($data);
+            DB::commit();
+        } catch (\Exception $e) {
+            Log::error('BASE_DE_DATOS|' . $e->getMessage());
+            $status = false;
+            DB::rollback();
+        }
+        return $status;
     }
 }

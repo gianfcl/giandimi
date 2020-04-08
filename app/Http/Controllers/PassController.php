@@ -20,7 +20,7 @@ class PassController extends Controller {
     public function save(Request $request) {
 
         $registro = strtoupper($request->get('registro', null));
-        $password = $request->get('passw', null);
+        $password = $request->get('password', null);
         //actualizar password
         if (\App\Model\Usuario::updatePassword($registro, $password)){
             flash('Pass actualizado para el registro ' . $registro . ': ' . $password)->success();
