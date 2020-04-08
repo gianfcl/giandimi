@@ -80,39 +80,9 @@ class Usuario extends Authenticatable{
         return in_array($rol, [$this->rol]);
     }
 
-    static function updateMasive(){
-        $usuarios = DB::table('USUARIOS AS WU')->select('WU.usuario','WU.correo')
-        ->where('rol','=',29)
-        ->whereNull('password')
-        ->get();
-        //dd($usuarios);
-        foreach ($usuarios as $usuario) {
-            DB::table('USUARIOS') 
-            ->where('usuario','=',$usuario->usuario)
-            ->update(['password' => Hash::make($usuario->usuario)]);
-        }
-    }
-    
     static function updatePassword($usuario,$password){
         return DB::table('USUARIOS')
              ->where('usuario','=',$usuario)
             ->update(['password' => Hash::make($password)]);
-    }
-
-    public function updateNewPassword($usuario,$password){
-        return DB::table('USUARIOS')
-             ->where('usuario','=',$usuario)
-            ->update(['password' => Hash::make($password)]);
-    }
-    
-    public function verifyPassword($usuario,$apassword){
-        $sql = DB::table('USUARIOS AS WU')
-               ->where('WU.usuario', '=', $usuario)
-               ->where('WU.estado','=','1');
-         
-        //El usuario encontrado es la primera coincidencia (usuario es unico)     
-        $usuario = $sql->first();
-        //La función Hash::check() se encarga de confirmar si dos cadenas encriptadas son iguales
-        return Hash::check($apassword, $usuario->PASSWORD);
     }
 }

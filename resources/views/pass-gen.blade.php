@@ -3,7 +3,7 @@
 @section('content')
 
 <form method="post" action="{{ route('pass.save') }}" >
-    <h1>Bienvenido a la WEBVPC</h1>
+    <h1>Bienvenido a la GIANDIMI</h1>
     <div class="form-group">
         <input type="hidden" name="_token" value="{{ csrf_token() }}">
         <input class="form-control" placeholder="Registro de Usuario" type="text" name="registro">

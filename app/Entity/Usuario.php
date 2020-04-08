@@ -18,13 +18,9 @@ class Usuario extends \App\Entity\Base\Entity {
     protected $_usuario;
     protected $_password;
     protected $_rol;
-    protected $_pais;
-    protected $_region;
-    protected $_departamento;
-    protected $_distrito;
-    protected $_calle;
-    protected $_estado;
-    protected $_correo;
+    protected $_token;
+    protected $_flgactivo;
+    
 
     public function setFromAuth($user) {
 
@@ -32,13 +28,8 @@ class Usuario extends \App\Entity\Base\Entity {
         $this->setValue('_usuario', $user->usuario);
         $this->setValue('_password', $user->password);
         $this->setValue('_rol', $user->rol);
-        $this->setValue('_pais', $user->pais);
-        $this->setValue('_region', $user->region);
-        $this->setValue('_departamento', $user->departamento);
-        $this->setValue('_distrito', $user->distrito);
-        $this->setValue('_calle', $user->calle);
-        $this->setValue('_estado', $user->estado);
-        $this->setValue('_correo', $user->correo);
+        $this->setValue('_token', $user->token);
+        $this->setValue('_flgactivo', $user->flg_activo);
     }
 
 
@@ -46,10 +37,10 @@ class Usuario extends \App\Entity\Base\Entity {
         
         switch ($rol) {
             case self::ROL_ADMINISTRADOR:
-                return 'productos';
+                return 'usuario.index';
                 break;
             case self::ROL_USUARIOS:
-                return 'productos';
+                return 'usuario.index';
                 break;
             default:
                 return 'login.index';
