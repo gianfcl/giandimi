@@ -12,7 +12,9 @@ use Validator;
 class UsuarioController extends Controller {
 
     public function index(Request $request) {
-        return view("usuarios.index");
+        $roles = new Roles();
+        return view("usuarios.index")
+            ->with("roles",$roles->getRoles());
     }
 
     public function getUsuarios(Request $request)
@@ -25,7 +27,7 @@ class UsuarioController extends Controller {
     {
         $roles = new Roles();
         return view("usuarios.formaddusuario")
-            ->with('roles',$roles->getRoles());
+            ->with("roles",$roles->getRoles());
     }
 
     public function Addusuario(Request $request)
@@ -35,6 +37,28 @@ class UsuarioController extends Controller {
             flash("Exito al guardar!")->success();
         }else{
             flash("Error al guardar")->error();
+        }
+        return redirect()->route('usuario.index');
+    }
+
+    public function Editusuario(Request $request)
+    {
+        $entidad = new Usuario();
+        if ($entidad->Editusuario($request->all())) {
+            flash("Exito al editar!")->success();
+        }else{
+            flash("Error al editar")->error();
+        }
+        return redirect()->route('usuario.index');   
+    }
+
+    public function Deleteusuario(Request $request)
+    {
+        $entidad = new Usuario();
+        if ($entidad->Deleteusuario($request->all())) {
+            flash("Exito al eliminar!")->success();
+        }else{
+            flash("Error al eliminar")->error();
         }
         return redirect()->route('usuario.index');
     }

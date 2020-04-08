@@ -3,7 +3,6 @@
 @section('pageTitle','Usuarios')
 
 @section('js-libs')
-<link href="{{ URL::asset('css/bootstrap-datepicker.min.css') }}" rel="stylesheet" type="text/css">
 <link href="{{ URL::asset('css/datatables.min.css') }}" rel="stylesheet" type="text/css">
 <link href="{{ URL::asset('css/formValidation.min.css') }}" rel="stylesheet" type="text/css">
 <link href="{{ URL::asset('css/multiselect.min.css') }}" rel="stylesheet" type="text/css">
@@ -43,6 +42,7 @@
 						<th>USUARIO</th>
 						<th>NOMBRE</th>
 						<th>ROL</th>
+						<th>ESTADO</th>
 						<th>ACCIONES</th>
 					</tr>
 				</thead>
@@ -52,6 +52,45 @@
 		</div>
 	</div>
 </div>
+
+<div class="modal fade" tabindex="-1" role="dialog" id="Modaleditusuario">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">Editar Usuario</h4>
+            </div>
+            <div class="modal-body">
+                <form id="formModaleditusuario" class="form-horizontal" enctype="multipart/form-data" action="{{route('usuarios.editar')}}">
+                    <input type="hidden" name="id" id="eid">
+                    <div class="row" style="padding-left:11px">
+                        <label class="col-md-3">NOMBRE:</label>
+                        <div class="input-group col-md-9">
+                            <input id="enombre" name="nombre" class="form-control">
+                        </div>
+                    </div><br>
+                    <div class="row" style="padding-left:11px">
+                        <label class="col-md-3">USUARIO:</label>
+                        <div class="input-group col-md-9">
+                            <input id="eusuario" name="usuario" class="form-control">
+                        </div>
+                    </div><br>
+                    <div class="row" style="padding-left:11px">
+                        <label class="col-md-3">ROL:</label>
+                        <div class="input-group col-md-9">
+                            <select id="erol" name="rol" class="form-control">
+                            	@foreach($roles as $rol)
+                            		<option value="{{$rol->ROL}}">{{$rol->NOMBRE}}</option>
+                            	@endforeach
+                            </select>
+                        </div>
+                    </div><br>
+                    <center><button class="btn btn-success" type="submit">Guardar</button></center>
+                </form>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+</div>
 @stop
 
 @section('js-scripts')
@@ -59,16 +98,21 @@
 	$(document).ready(function () {
 		Usuarios();
 	});
+
+	$(document).on("click",".editar",function () {
+		$("#Modaleditusuario").modal();
+		$("#eid").val($(this).attr('idusuario'));
+		$("#enombre").val($(this).attr('nombre'));
+		$("#eusuario").val($(this).attr('usuario'));
+		$("#erol").val($(this).attr('rol'));
+	});
+
 	function Usuarios() {
 		if ($.fn.dataTable.isDataTable('#table')) {
 			$('#table').DataTable().destroy();
 		}
-		//console.log(bancas, zonales, jefaturas, ejecutivos);
 		$('#table').DataTable({
-			processing: true,
-			"bAutoWidth": false,
-			rowId: 'staffId',
-			dom: 'Blfrtip',
+			processing: true,"bAutoWidth": false,rowId: 'staffId',dom: 'Blfrtip',
 			buttons: [{
 					"extend": 'pdf',
 					"text": 'PDF',
@@ -80,10 +124,7 @@
 					"className": 'btn btn-success btn-xs'
 				}
 			],
-			serverSide: true,
-			language: {
-				"url": "{{ URL::asset('js/Json/Spanish.json') }}"
-			},
+			serverSide: true,language: {"url": "{{ URL::asset('js/Json/Spanish.json') }}"},
 			ajax: {
 				"type": "GET",
 				"url": "{{ route('usuario.getUsuarios') }}",
@@ -95,11 +136,9 @@
 				[25, 50, -1],
 				[25, 50, "Todo"]
 			],
-			"iDisplayLength": 25,
-			"order": [
-				[1, "desc"]
-			],
-			columnDefs: [{
+			"iDisplayLength": 25,"order": [[1, "desc"]],
+			columnDefs: [
+				{
 					targets: 0,
 					data: null,
 					searchable: false,
@@ -125,11 +164,22 @@
 					targets: 3,
 					data: null,
 					render: function(data, type, row) {
-						return "<a class='btn btn-primary editar'>Editar</a>";
+						if (row.flg_activo==1) {
+							return "ACTIVO";
+						}
+						return "INACTIVO";
+					}
+				},
+				{
+					targets: 4,
+					data: null,
+					render: function(data, type, row) {
+						return "<a class='btn btn-primary editar' idusuario='"+row.id+"' nombre='"+row.nombre+"' usuario='"+row.usuario+"' password='"+row.password+"' nombrerol='"+row.nombrerol+"' rol='"+row.rol+"'>Editar</a><br><a class='btn btn-danger' href='{{route('usuario.delete')}}?id="+row.id+"'>Eliminar</a>";
 					}
 				}
 			],
-			columns: [{
+			columns: [
+				{
 					data: 'usuario',
 					name: 'usuario'
 				},
@@ -140,9 +190,13 @@
 				{
 					data: 'nombrerol',
 					name: 'nombrerol'
+				},
+				{
+					data: 'flg_activo',
+					name: 'flg_activo'
 				}
 			]
 		});
 	}
 </script>
-@stop<!--  -->
+@stop

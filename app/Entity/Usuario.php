@@ -80,4 +80,25 @@ class Usuario extends \App\Entity\Base\Entity {
         }
         return false;
     }
+
+    function Editusuario($data)
+    {
+        $actualizar=[
+            'usuario'=>$data['usuario'],
+            'nombre'=>$data['nombre'],
+            'rol'=>$data['rol']
+        ];
+        // dd($data['id'],$actualizar);
+        $model = new mUsuario();
+        return $model->Editusuario($data['id'],$actualizar);
+    }
+
+    function Deleteusuario($data)
+    {
+        $actualizar=[
+            'flg_activo'=>0
+        ];
+        $model = new mUsuario();
+        return $model->Editusuario($data['id'],$actualizar);
+    }
 }

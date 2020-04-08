@@ -106,7 +106,7 @@ class Usuario extends Authenticatable{
                 {
                     $join->on('U.ROL','=','R.ROL');
                 })
-                ->select('U.*','R.NOMBRE AS nombrerol');
+                ->select('U.id','U.nombre','U.rol','U.usuario','U.password','U.flg_activo','R.NOMBRE AS nombrerol');
         if (!empty($usuario)) {
             $sql=$sql->where('U.usuario','=',$usuario);
         }
@@ -122,6 +122,25 @@ class Usuario extends Authenticatable{
         $status = true;
         try {
             DB::table('USUARIOS')->insert($data);
+            DB::commit();
+        } catch (\Exception $e) {
+            Log::error('BASE_DE_DATOS|' . $e->getMessage());
+            $status = false;
+            DB::rollback();
+        }
+        return $status;
+    }
+
+    function Editusuario($id,$actualizar)
+    {
+        DB::beginTransaction();
+        $status = true;
+        try {
+            
+            DB::table('USUARIOS')
+            ->where('id','=',$id)
+            ->update($actualizar);
+
             DB::commit();
         } catch (\Exception $e) {
             Log::error('BASE_DE_DATOS|' . $e->getMessage());

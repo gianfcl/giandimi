@@ -60,7 +60,11 @@ Route::get('/download/{file}',function($file){
     return response()->download(storage_path('app/'.str_replace('|','/',$file)));
 })->name('download');
 
-Route::get('/usuarios',['as'=>'usuario.index','uses'=>'UsuarioController@index']);
-Route::get('/getusuarios',['as'=>'usuario.getUsuarios','uses'=>'UsuarioController@getUsuarios']);
-Route::get('/formaddusuario',['as'=>'formaddusuario','uses'=>'UsuarioController@FormAddusuario']);
-Route::get('/addusuario',['as'=>'addusuario','uses'=>'UsuarioController@Addusuario']);
+Route::group(['middleware' => ['authBase','authRol:1|2']], function() {
+  Route::get('/usuarios',['as'=>'usuario.index','uses'=>'UsuarioController@index']);
+  Route::get('/getusuarios',['as'=>'usuario.getUsuarios','uses'=>'UsuarioController@getUsuarios']);
+  Route::get('/formaddusuario',['as'=>'formaddusuario','uses'=>'UsuarioController@FormAddusuario']);
+  Route::get('/addusuario',['as'=>'addusuario','uses'=>'UsuarioController@Addusuario']);
+  Route::get('/editar',['as'=>'usuarios.editar','uses'=>'UsuarioController@Editusuario']);
+  Route::get('/delete',['as'=>'usuario.delete','uses'=>'UsuarioController@Deleteusuario']);
+});
