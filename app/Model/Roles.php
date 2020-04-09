@@ -6,10 +6,12 @@ use Illuminate\Database\Eloquent\Model;
 
 
 class Roles extends Model{
-	function getRoles($rol=null)
+	function getRoles($activos=false,$rol=null)
 	{
-		$sql=DB::table('ROLES')
-			->where('FLG_ACTIVO','1');
+		$sql=DB::table('ROLES');
+        if ($activos) {
+			$sql=$sql->where('FLG_ACTIVO','1');
+        }
 		if (!empty($rol)) {
 			$sql=$sql->where('ROL','=',$rol);
 		}

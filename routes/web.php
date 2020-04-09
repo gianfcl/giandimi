@@ -66,11 +66,24 @@ Route::group(['middleware' => ['authBase','authRol:1|2']], function() {
   Route::get('/formaddusuario',['as'=>'formaddusuario','uses'=>'UsuarioController@FormAddusuario']);
   Route::get('/addusuario',['as'=>'addusuario','uses'=>'UsuarioController@Addusuario']);
   Route::get('/editar',['as'=>'usuarios.editar','uses'=>'UsuarioController@Editusuario']);
-  Route::get('/delete',['as'=>'usuario.delete','uses'=>'UsuarioController@Deleteusuario']);
+  Route::get('/usuestado',['as'=>'usuario.estado','uses'=>'UsuarioController@ChangeEstadousuario']);
 
   Route::get('/roles',['as'=>'roles.index','uses'=>'RolesController@index']);
   Route::get('/getRoles',['as'=>'roles.getRoles','uses'=>'RolesController@getRoles']);
   Route::get('/addrol',['as'=>'roles.addrol','uses'=>'RolesController@Addrol']);
   Route::get('/formroles',['as'=>'roles.formroles','uses'=>'RolesController@formroles']);
-  Route::get('/deleterol',['as'=>'roles.delete','uses'=>'RolesController@DeleteRol']);
+  Route::get('/rolestado',['as'=>'roles.estado','uses'=>'RolesController@ChangeEstadoRol']);
+});
+
+Route::group(['middleware' => ['authBase','authRol:1|2']], function() {
+  Route::get('/menus',['as'=>'menus.index','uses'=>'MenusController@index']);
+  Route::get('/getmenus',['as'=>'menus.getMenus','uses'=>'MenusController@getMenus']);
+  Route::get('/formmenu',['as'=>'menu.formmenu','uses'=>'MenusController@FormaddMenu']);
+  Route::get('/menuestado',['as'=>'menu.estado','uses'=>'MenusController@ChangestadoMenu']);
+
+  Route::get('/addmenu',['as'=>'menu.add','uses'=>'MenusController@AddMenu']);
+});
+
+Route::group(['middleware' => ['authBase','authRol:1|2']], function() {
+  Route::get('/servicios',['as'=>'servicios.index','uses'=>'MenusController@index']);
 });

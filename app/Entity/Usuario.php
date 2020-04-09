@@ -93,10 +93,10 @@ class Usuario extends \App\Entity\Base\Entity {
         return $model->Editusuario($data['id'],$actualizar);
     }
 
-    function Deleteusuario($data)
+    function ChangeEstadousuario($data)
     {
         $actualizar=[
-            'flg_activo'=>0
+            'flg_activo'=>$data['activo']==1?0:1
         ];
         $model = new mUsuario();
         return $model->Editusuario($data['id'],$actualizar);

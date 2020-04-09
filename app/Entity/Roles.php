@@ -22,13 +22,13 @@ class Roles extends \App\Entity\Base\Entity {
         $this->setValue('_flgactivo', $data->FLG_ACTIVO);
     }
 
-    function getRoles($rol=null)
+    function getRoles($activos=false,$rol=null)
     {
         $model = new mRoles();
         if (!empty($rol)) {
-            return $model->getRoles($rol)->first();
+            return $model->getRoles($activos,$rol)->first();
         }else{
-            return $model->getRoles($rol);
+            return $model->getRoles($activos,$rol);
         }
     }
 
@@ -42,10 +42,10 @@ class Roles extends \App\Entity\Base\Entity {
         return $model->AddRol($datos);
     }
 
-    function DeleteRol($data)
+    function ChangeEstadoRol($data)
     {
         $actualizar=[
-            'FLG_ACTIVO'=>0
+            'FLG_ACTIVO'=>$data['activo']==1?0:1
         ];
         $model = new mRoles();
         return $model->EditRol($data['id'],$actualizar);

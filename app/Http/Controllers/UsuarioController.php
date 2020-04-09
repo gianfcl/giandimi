@@ -27,7 +27,7 @@ class UsuarioController extends Controller {
     {
         $roles = new Roles();
         return view("usuarios.formaddusuario")
-            ->with("roles",$roles->getRoles());
+            ->with("roles",$roles->getRoles(true));
     }
 
     public function Addusuario(Request $request)
@@ -52,10 +52,10 @@ class UsuarioController extends Controller {
         return redirect()->route('usuario.index');   
     }
 
-    public function Deleteusuario(Request $request)
+    public function ChangeEstadousuario(Request $request)
     {
         $entidad = new Usuario();
-        if ($entidad->Deleteusuario($request->all())) {
+        if ($entidad->ChangeEstadousuario($request->all())) {
             flash("Exito al eliminar!")->success();
         }else{
             flash("Error al eliminar")->error();

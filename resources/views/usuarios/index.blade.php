@@ -141,7 +141,6 @@
 				{
 					targets: 0,
 					data: null,
-					searchable: false,
 					render: function(data, type, row) {
 						return row.usuario;
 					}
@@ -163,6 +162,7 @@
 				{
 					targets: 3,
 					data: null,
+					searchable: false,
 					render: function(data, type, row) {
 						if (row.flg_activo==1) {
 							return "ACTIVO";
@@ -173,8 +173,14 @@
 				{
 					targets: 4,
 					data: null,
+					searchable: false,
 					render: function(data, type, row) {
-						return "<a class='btn btn-primary editar' idusuario='"+row.id+"' nombre='"+row.nombre+"' usuario='"+row.usuario+"' password='"+row.password+"' nombrerol='"+row.nombrerol+"' rol='"+row.rol+"'>Editar</a><br><a class='btn btn-danger' href='{{route('usuario.delete')}}?id="+row.id+"'>Eliminar</a>";
+						if (row.flg_activo==1) {
+							$html = "<a class='btn btn-danger' href='{{route('usuario.estado')}}?id="+row.id+"&activo="+row.flg_activo+"'>Eliminar</a>";
+						}else{
+							$html = "<a class='btn btn-success' href='{{route('usuario.estado')}}?id="+row.id+"&activo="+row.flg_activo+"'>Agregar</a>";
+						}
+						return "<a class='btn btn-primary editar' idusuario='"+row.id+"' nombre='"+row.nombre+"' usuario='"+row.usuario+"' password='"+row.password+"' nombrerol='"+row.nombrerol+"' rol='"+row.rol+"'>Editar</a><br>"+$html;
 					}
 				}
 			],

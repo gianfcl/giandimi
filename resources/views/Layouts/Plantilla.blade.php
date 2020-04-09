@@ -53,14 +53,14 @@ var APP_PUBLIC_URL = "<?php echo config('app.url'); ?>";
                         <!-- sidebar menu -->
                         <?php
                             $entidad = new \App\Entity\Menu ();
-                            $menus = $entidad->getMenus();
+                            $menus = $entidad->getMenus(true);
                         ?>
                         @foreach($menus as $menu)
                             <div id="sidebar_menu" class="main_menu_side hidden-print main_menu">
                                 <div class="menu_section">
                                     <ul class="nav side-menu">
                                         <li class="{{Route::currentRouteName() == $menu->RUTA? 'active':''}}">
-                                            <a href="{{ route($menu->RUTA) }}"><i class="fa fa-key"></i>{{$menu->NOMBRE}}</a>
+                                            <a href="{{ route($menu->RUTA) }}"><i class="{{$menu->ICON}}"></i>{{$menu->NOMBRE}}</a>
                                         </li>
                                     </ul>
                                 </div>

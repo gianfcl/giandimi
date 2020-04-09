@@ -37,10 +37,10 @@ class RolesController extends Controller {
         return redirect()->route('roles.index');
     }
 
-    public function DeleteRol(Request $request)
+    public function ChangeEstadoRol(Request $request)
     {
         $entidad = new Roles();
-        if ($entidad->DeleteRol($request->all())) {
+        if ($entidad->ChangeEstadoRol($request->all())) {
             flash("Exito al guardar!")->success();
         }else{
             flash("Error al guardar")->error();
