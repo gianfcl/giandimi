@@ -10,20 +10,6 @@
   | contains the "web" middleware group. Now create something great!
   |
  */
-
-/*
-  Codigos de ROLES (Ver Entidad Usuario)
-  ROL_EJECUTIVO_NEGOCIO = 1;
-  ROL_ASISTENTE_COMERCIAL = 2;
-  ROL_SOPORTE = 4;
-  ROL_CALL = 5;
-  ROL_GERENTE_TIENDA = 6;
-  ROL_GERENTE_CENTRO = 7;
-  ROL_GERENTE_ZONA = 8;
-  ROL_JEFE_CALL = 9;
-
- */
-
 Route::get('/testdb', function () {
 //    return view('telefonos');
     try {
@@ -73,6 +59,9 @@ Route::group(['middleware' => ['authBase','authRol:1|2']], function() {
   Route::get('/addrol',['as'=>'roles.addrol','uses'=>'RolesController@Addrol']);
   Route::get('/formroles',['as'=>'roles.formroles','uses'=>'RolesController@formroles']);
   Route::get('/rolestado',['as'=>'roles.estado','uses'=>'RolesController@ChangeEstadoRol']);
+
+  Route::get('/rolesxmenu',['as'=>'roles.rolesxmenu','uses'=>'RolesController@getRolesxMenu']);
+  Route::get('/estadorm',['as'=>'roles.estadorm','uses'=>'RolesController@ChangeEstadoMenuRol']);
 });
 
 Route::group(['middleware' => ['authBase','authRol:1|2']], function() {
@@ -84,6 +73,6 @@ Route::group(['middleware' => ['authBase','authRol:1|2']], function() {
   Route::get('/addmenu',['as'=>'menu.add','uses'=>'MenusController@AddMenu']);
 });
 
-Route::group(['middleware' => ['authBase','authRol:1|2']], function() {
-  Route::get('/servicios',['as'=>'servicios.index','uses'=>'MenusController@index']);
+Route::group(['middleware' => ['authBase','authRol:1|2|3']], function() {
+  Route::get('/servicios',['as'=>'servicios.index','uses'=>'ServiciosController@index']);
 });

@@ -11,7 +11,7 @@
 
         <link href="{{ URL::asset('css/bootstrap.min.css') }}" rel="stylesheet" type="text/css">
         <link href="{{ URL::asset('css/custom/custom.min.css') }}" rel="stylesheet" type="text/css">
-        <link href="{{ URL::asset('css/custom/webvpc.css') }}" rel="stylesheet" type="text/css">
+        <link href="{{ URL::asset('css/custom/giandimi.css') }}" rel="stylesheet" type="text/css">
         <link href="{{ URL::asset('css/font-awesome-5.7.1.min.css') }}" rel="stylesheet" type="text/css">
         <link href="{{ URL::asset('css/font-awesome.min.css') }}" rel="stylesheet" type="text/css">
         <link href="{{ URL::asset('css/bootstrap-datepicker.min.css') }}" rel="stylesheet" type="text/css">
@@ -44,6 +44,11 @@ var APP_PUBLIC_URL = "<?php echo config('app.url'); ?>";
                             <div class="profile_info" style="padding-top: 15px;">
                                 <span>Bienvenido,</span>
                                 <h2>{{ Auth::user()->nombre }}</h2>
+                                <?php
+                                    $entidad = new \App\Entity\Roles ();
+                                    $rol = $entidad->getRoles(false,Auth::user()->rol)->NOMBRE;
+                                ?>
+                                <h5>{{ $rol }}</h5>
                             </div>
                         </div>
                         <!-- /menu profile quick info -->
@@ -53,7 +58,7 @@ var APP_PUBLIC_URL = "<?php echo config('app.url'); ?>";
                         <!-- sidebar menu -->
                         <?php
                             $entidad = new \App\Entity\Menu ();
-                            $menus = $entidad->getMenus(true);
+                            $menus = $entidad->getMenusRol(true,Auth::user()->rol);
                         ?>
                         @foreach($menus as $menu)
                             <div id="sidebar_menu" class="main_menu_side hidden-print main_menu">

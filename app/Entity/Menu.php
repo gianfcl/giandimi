@@ -36,6 +36,12 @@ class Menu extends \App\Entity\Base\Entity {
         return $entidad->getMenus($activos,$data);
     }
 
+    static function getMenusRol($activos=false,$rol=null)
+    {
+        $entidad = new mMenu();
+        return $entidad->getMenusRol($activos,$rol);
+    }
+
     function AddMenu($data)
     {
         $datos = [

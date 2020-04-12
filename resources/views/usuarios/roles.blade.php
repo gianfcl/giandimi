@@ -51,12 +51,76 @@
 		</div>
 	</div>
 </div>
+
+<div class="modal fade" tabindex="-1" role="dialog" id="ModalAccesoRol">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">Accesos Menú</h4>
+            </div>
+            <div class="modal-body">
+            	<!-- {{route('usuarios.editar')}} -->
+                <form id="formModalAccesoRol" class="form-horizontal" enctype="multipart/form-data" action="#">
+                    <input type="hidden" name="idrol" id="idrol">
+                    <div class="row">
+                        <label class="col-md-3">ROL:</label>
+                        <div class="input-group col-md-9">
+                            <input id="nombrerol" class="form-control">
+                        </div>
+                    </div><br>
+                    <div class="html">
+                    	
+                    </div>
+                </form>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+</div>
 @stop
 
 @section('js-scripts')
 <script type="text/javascript">
 	$(document).ready(function () {
 		Roles();
+	});
+
+	$(document).on("click",".idmenurol",function () {
+		idmenurol = $(this).attr("idmenurol");
+		activomr = $(this).attr("activomr");
+		$.ajax({
+			type: "GET",
+			data: {
+				idmenurol: idmenurol,
+				activomr: activomr
+			},
+			url: '{{route("roles.estadorm")}}',
+			success: function(result) {
+			}
+		});
+		$("#ModalAccesoRol button.close").click();
+	})
+
+	$(document).on("click",".acceso",function () {
+		rol = $(this).attr("rol");
+		nombrerol = $(this).attr("nombrerol");
+		activo = $(this).attr("activo");
+		cantidad_menus = $(this).attr("cantidad_menus");
+		$("#ModalAccesoRol").modal();
+		$("#idrol").val(rol);
+		$("#nombrerol").val(nombrerol);
+		$.ajax({
+			type: "GET",
+			data: {
+				rol: rol,
+				activo: activo,
+				cantidad_menus: cantidad_menus
+			},
+			url: '{{route("roles.rolesxmenu")}}',
+			success: function(result) {
+				$(".html").html(result);
+			}
+		});
 	});
 
 	function Roles() {
@@ -121,11 +185,13 @@
 					searchable: false,
 					render: function(data, type, row) {
 						if (row.FLG_ACTIVO==1) {
-							$html="<a class='btn btn-danger' href='{{route('roles.estado')}}?id="+row.ROL+"&activo="+row.FLG_ACTIVO+"'>Eliminar</a>";
+							$activo="<br><a class='btn btn-danger' href='{{route('roles.estado')}}?id="+row.ROL+"&activo="+row.FLG_ACTIVO+"'>Eliminar</a>";
 						}else{
-							$html="<a class='btn btn-success' href='{{route('roles.estado')}}?id="+row.ROL+"&activo="+row.FLG_ACTIVO+"'>Agregar</a>"
+							$activo="<br><a class='btn btn-success' href='{{route('roles.estado')}}?id="+row.ROL+"&activo="+row.FLG_ACTIVO+"'>Agregar</a>";
 						}
-						return "<a class='btn btn-primary editar'>Editar</a><br>"+$html;
+						$acceso="<br><a class='btn btn-info acceso' nombrerol="+row.NOMBRE+" rol="+row.ROL+" activo="+row.FLG_ACTIVO+" cantidad_menus="+row.CANT_M+"'>Dar Acceso</a>";
+						$editar="<a class='btn btn-primary editar'>Editar</a>";
+						return $activo+$acceso;
 					}
 				}
 			],

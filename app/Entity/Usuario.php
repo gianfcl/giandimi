@@ -38,7 +38,7 @@ class Usuario extends \App\Entity\Base\Entity {
                 return 'usuario.index';
                 break;
             default:
-                return 'login.index';
+                return 'servicios.index';
         }
     }
 

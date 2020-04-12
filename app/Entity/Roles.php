@@ -50,4 +50,32 @@ class Roles extends \App\Entity\Base\Entity {
         $model = new mRoles();
         return $model->EditRol($data['id'],$actualizar);
     }
+
+    function ChangeEstadoMenuRol($data)
+    {
+        $actualizar=[
+            'FLG_ACTIVO'=>$data['activomr']==1?0:1
+        ];
+        $model = new mRoles();
+        return $model->ChangeEstadoMenuRol($data['idmenurol'],$actualizar);
+    }
+
+    function getRolesxMenu($data)
+    {
+        $html="";
+        if ($data['activo']==0) {
+            $html = "<span>Debe estar activo para dar acceso</span>";
+        }else{
+            $model = new mRoles();
+            $menus = $model->getRolesxMenu(false,$data['rol']);
+            if (count($menus)>0) {
+                    $html = "<span>";
+                foreach ($menus as $key => $menu) {
+                    $html=$html."<div class='row'><label class='col-sm-4'>".$menu->NOMBRE."</label><div class='col-sm-2'><input type='checkbox' class='idmenurol' activomr='".$menu->FLG_ACTIVO."' idmenurol='".$menu->ID_MENU_ROL."'  ".($menu->FLG_ACTIVO==1?'checked':'')."   ></div></div>";
+                }
+                $html = $html."</span>";
+            }
+        }
+        return $html;
+    }
 }

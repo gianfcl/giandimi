@@ -47,4 +47,16 @@ class RolesController extends Controller {
         }
         return redirect()->route('roles.index');
     }
+
+    public function getRolesxMenu(Request $request)
+    {
+        $entidad = new Roles();
+        return $entidad->getRolesxMenu($request->all());
+    }
+
+    public function ChangeEstadoMenuRol(Request $request)
+    {
+        $entidad = new Roles();
+        return $entidad->ChangeEstadoMenuRol($request->all());
+    }
 }

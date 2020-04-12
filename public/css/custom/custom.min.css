@@ -1,3 +1,30 @@
+
+  @font-face {
+	font-family: 'Omnes';
+	src: url('../public/fonts/omnes-light-webfont.woff2') format('woff2'),
+		url('../public/fonts/omnes-light-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+  
+  }
+  
+  @font-face {
+	font-family: 'OmnesRegular';
+	src: url('../public/fonts/omnes-regular-webfont.woff2') format('woff2'),
+		url('../public/fonts/omnes-regular-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+  
+  }
+  
+  @font-face {
+	font-family: 'OmnesBold';
+	src: url('../public/fonts/omnes-medium-webfont.woff2') format('woff2'),
+		url('../public/fonts/omnes-medium-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+  
+  }
 .x_title h2,table.tile_info td p {
 	white-space:nowrap;
 	text-overflow:ellipsis
@@ -130,7 +157,7 @@
 	padding:0 0 4px
 }
 .left_col {
-	background:#000000
+	background:#2A3F54
 }
 .nav-sm .container.body .col-md-3.left_col {
 	min-height:100%;
@@ -338,7 +365,7 @@ body .container.body .right_col {
 .nav_title {
 	width:190px;
 	float:left;
-	background:#000000;
+	background:#2A3F54;
 	border-radius:0;
 	height:57px
 }
@@ -420,6 +447,12 @@ body .container.body .right_col {
 	border:1px solid #fff!important;
 	color:#73879C
 }
+.li-link2{
+	display: flex !important;
+    justify-content: start !important;
+    font-size: 1.3em !important;
+    padding: 10px !important;
+}
 .bg-green {
 	background:#1ABB9C!important;
 	border:1px solid #1ABB9C!important;
@@ -459,8 +492,7 @@ body .container.body .right_col {
 }
 body {
 	color:#73879C;
-	background:#000000;
-	font-family:"Helvetica Neue",Roboto,Arial,"Droid Sans",sans-serif;
+	background:#2A3F54;
 	font-size:13px;
 	font-weight:400;
 	line-height:1.471
@@ -619,14 +651,30 @@ a {
 	cursor:pointer
 }
 .nav.side-menu>li>a {
-	margin-bottom:6px
+	margin-bottom:6px;
+	color:  rgb(128,128,128) !important;
 }
 .nav.side-menu>li>a:hover {
-	color:#F2F5F7!important
+	opacity: 0.7 !important;
+
+}.nav.side-menu>.active{
+}
+.nav.side-menu>.active.menuvpc{
+}
+.nav.side-menu>.active:hover{
+}
+.nav.side-menu>.active>a>i:hover{
+	color: #4DD094 !important;
+	opacity: 1 !important;
+}
+.section-dashboard{
+	background: white !important;
+    padding: 20px !important;
+    border-radius: 2px !important;
+    box-shadow: 0 4px 10px 0px rgba(0,0,0,0.17) !important;
 }
 .nav.side-menu>li>a:hover,.nav>li>a:focus {
-	text-decoration:none;
-	background:0 0
+	background:0 0;
 }
 .nav.child_menu {
 	display:none
@@ -662,9 +710,16 @@ a {
 	position:relative;
 	display:block
 }
+.nav.side-menu>.active>a>i{
+	color: #4DD094 !important;
+	background: white !important;
+	box-shadow: 0 0 0 !important;
+}
 .nav.child_menu>li>a,.nav.side-menu>li>a {
 	color:#E7E7E7;
 	font-weight:500
+}
+.nav.child_menu>li>a:hover{
 }
 .nav li li.current-page a,.nav.child_menu li li a.active,.nav.child_menu li li a:hover {
 	color:#fff
@@ -676,7 +731,7 @@ a {
 	padding:13px 15px 12px
 }
 .nav.side-menu>li.active,.nav.side-menu>li.current-page {
-	border-right:5px solid #1ABB9C
+	border-right:5px solid #4DD094 !important;
 }
 .nav li.current-page {
 	background:rgba(255,255,255,.05)
@@ -690,7 +745,7 @@ a {
 }
 .nav.side-menu>li.active>a {
 	text-shadow:rgba(0,0,0,.25) 0 -1px 0;
-	background:linear-gradient(#334556,#2C4257),#000000;
+	background:linear-gradient(#334556,#2C4257),#2A3F54;
 	box-shadow:rgba(0,0,0,.25) 0 1px 0,inset rgba(255,255,255,.16) 0 1px 0
 }
 .navbar-brand,.navbar-nav>li>a {
@@ -1496,7 +1551,7 @@ span.right {
 	padding:5px 0 0;
 	position:fixed;
 	width:230px;
-	background:#000000;
+	background:#2A3F54;
 	z-index:999
 }
 .sidebar-footer a {
